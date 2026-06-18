@@ -1,0 +1,9 @@
+condition,subgroup,n,violation_or_spatial_inconsistency_rate,public_shelter_rate,public_transit_rate,ride_with_family_friend_rate,emergency_transport_rate,mixed_other_rate,limited_or_no_transit_public_transit_rate
+baseline,no_vehicle_all,90,0.944444,0.077778,0.988889,0.011111,0.000000,0.000000,
+baseline,no_vehicle_good_or_moderate_transit,82,0.939024,0.085366,0.987805,0.012195,0.000000,0.000000,
+baseline,no_vehicle_limited_or_no_transit,8,1.000000,0.000000,1.000000,0.000000,0.000000,0.000000,1.000000
+baseline,vehicle_access_all,110,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,
+spatial_grounded,no_vehicle_all,90,0.988889,1.000000,0.933333,0.044444,0.000000,0.000000,
+spatial_grounded,no_vehicle_good_or_moderate_transit,82,1.000000,1.000000,1.000000,0.000000,0.000000,0.000000,
+spatial_grounded,no_vehicle_limited_or_no_transit,8,0.875000,1.000000,0.250000,0.500000,0.000000,0.000000,0.250000
+spatial_grounded,vehicle_access_all,110,0.000000,0.990909,0.000000,0.000000,0.000000,0.000000,

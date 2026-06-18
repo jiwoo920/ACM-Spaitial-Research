@@ -1,0 +1,2 @@
+# The included analysis scripts use only the Python standard library.
+# Recommended runtime: Python 3.10 or newer.

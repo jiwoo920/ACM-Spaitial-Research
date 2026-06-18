@@ -1,0 +1,29 @@
+You are simulating household decision-making during a wildfire evacuation scenario.
+
+A wildfire is spreading toward the household's neighborhood. Local authorities have issued an evacuation warning, and smoke conditions are worsening. Roads are becoming congested, but some routes remain open. The household must decide whether to evacuate now, what transportation mode to use, and where to go first.
+
+Evaluate the household's most likely first response under this scenario.
+
+Household persona:
+- Persona ID: {persona_id}
+- Age of household head: {age_household_head}
+- Household size: {household_size}
+- Family structure: {family_structure}
+- Income level: {income_level}
+- Vehicle access: {vehicle_access}
+- Employment/school status: {employment_school_status}
+- Medical/caregiving responsibilities: {medical_caregiving_responsibilities}
+- Daily mobility constraints: {daily_mobility_constraints}
+
+Return exactly this structured format. Do not use Markdown, bold text, bullets, numbering, or any text before or after the fields. Put each field on one line.
+Persona ID:
+Decision:
+Transportation mode:
+Likely destination type:
+Departure urgency:
+Key constraints considered:
+Reasoning:
+
+Decision must be one of: Evacuate now; Delay evacuation; Stay; Uncertain.
+Transportation mode must be one of: Private vehicle; Ride with family/friend; Public transit; Walk; Emergency transport; Mixed/other; No transportation.
+Likely destination type must be one of: Public shelter; Friend/relative home; Hotel/motel; Medical facility; Outside evacuation zone; Stay in place; Unknown.

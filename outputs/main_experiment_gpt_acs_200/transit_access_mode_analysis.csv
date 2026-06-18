@@ -1,0 +1,18 @@
+condition,transit_access,transportation_mode,n,rate,public_transit_rate_for_access,limited_or_no_transit_public_transit_rate
+baseline,Good,Private vehicle,61,0.469231,0.523077,
+baseline,Good,Public transit,68,0.523077,0.523077,
+baseline,Good,Ride with family/friend,1,0.007692,0.523077,
+baseline,Limited,Private vehicle,22,0.733333,0.266667,0.266667
+baseline,Limited,Public transit,8,0.266667,0.266667,0.266667
+baseline,Moderate,Private vehicle,17,0.566667,0.433333,
+baseline,Moderate,Public transit,13,0.433333,0.433333,
+baseline,None,Private vehicle,10,1.000000,0.000000,0.000000
+spatial_grounded,Good,Private vehicle,61,0.469231,0.530769,
+spatial_grounded,Good,Public transit,69,0.530769,0.530769,
+spatial_grounded,Limited,Private vehicle,22,0.733333,0.066667,0.066667
+spatial_grounded,Limited,Public transit,2,0.066667,0.066667,0.066667
+spatial_grounded,Limited,Ride with family/friend,4,0.133333,0.066667,0.066667
+spatial_grounded,Limited,Walk,2,0.066667,0.066667,0.066667
+spatial_grounded,Moderate,Private vehicle,17,0.566667,0.433333,
+spatial_grounded,Moderate,Public transit,13,0.433333,0.433333,
+spatial_grounded,None,Private vehicle,10,1.000000,0.000000,0.000000

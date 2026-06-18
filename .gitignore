@@ -1,0 +1,45 @@
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# macOS and editor files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Large or private working artifacts
+archive/
+deliverables/
+old/
+backup/
+backups/
+*.zip
+
+# Excluded experiment outputs
+outputs/pipeline_validation/
+outputs/smoke_test*/
+outputs/*ollama*/
+figures/pipeline_validation/
+figures/smoke_test*/
+figures/*ollama*/
+paper/smoke_test*/
+paper/*ollama*/
+
+# Raw LLM responses are not part of the public reproducibility package.
+outputs/**/llm_responses_raw.csv
+outputs/**/llm_responses_parsed.csv
+private_appendix/

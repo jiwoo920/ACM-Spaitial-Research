@@ -1,0 +1,201 @@
+persona_id,census_tract_id,neighborhood_label,age_household_head,household_size,family_structure,income_level,vehicle_access,employment_school_status,medical_caregiving_responsibilities,daily_mobility_constraints,children_present,elderly_present,income_category,tract_median_income,tract_percent_no_vehicle,tract_poverty_rate,tract_percent_children,tract_percent_elderly
+ACS-001,06037206303,Los Angeles County tract 206303,87,1,Single adult household,Lower-middle,No,Employed full-time,Older adult mobility or medication needs,No private vehicle; depends on transit or rides,0,1,Low,11542,88.2,74.3,1.4,16.1
+ACS-002,06037206303,Los Angeles County tract 206303,24,3,Two-adult household,Low,Yes,Employed full-time,None,None,0,0,Low,11542,88.2,74.3,1.4,16.1
+ACS-003,06037206303,Los Angeles County tract 206303,44,1,Single adult household,Middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,11542,88.2,74.3,1.4,16.1
+ACS-004,06037206303,Los Angeles County tract 206303,75,1,Single adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,1,Low,11542,88.2,74.3,1.4,16.1
+ACS-005,06037206303,Los Angeles County tract 206303,86,1,Single adult household,Low,Yes,Employed part-time,None,Reduced mobility for household head,0,1,Low,11542,88.2,74.3,1.4,16.1
+ACS-006,06037206303,Los Angeles County tract 206303,77,1,Single adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,1,Low,11542,88.2,74.3,1.4,16.1
+ACS-007,06037206303,Los Angeles County tract 206303,62,1,Single adult household,Middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,11542,88.2,74.3,1.4,16.1
+ACS-008,06037206303,Los Angeles County tract 206303,29,1,Single adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,11542,88.2,74.3,1.4,16.1
+ACS-009,06037206303,Los Angeles County tract 206303,29,1,Single adult household,Low,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,11542,88.2,74.3,1.4,16.1
+ACS-010,06037206303,Los Angeles County tract 206303,49,1,Single adult household,Lower-middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,11542,88.2,74.3,1.4,16.1
+ACS-011,06037206301,Los Angeles County tract 206301,31,1,Single adult household,Low,Yes,Retired,None,None,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-012,06037206301,Los Angeles County tract 206301,37,1,Single adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-013,06037206301,Los Angeles County tract 206301,67,2,Shared adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,1,Low,13831,82.6,74.0,0.8,22.0
+ACS-014,06037206301,Los Angeles County tract 206301,88,2,Shared adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,1,Low,13831,82.6,74.0,0.8,22.0
+ACS-015,06037206301,Los Angeles County tract 206301,42,1,Single adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-016,06037206301,Los Angeles County tract 206301,78,1,Single adult household,Middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,1,Low,13831,82.6,74.0,0.8,22.0
+ACS-017,06037206301,Los Angeles County tract 206301,30,1,Single adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-018,06037206301,Los Angeles County tract 206301,65,2,Shared adult household,Lower-middle,Yes,Employed full-time,None,None,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-019,06037206301,Los Angeles County tract 206301,62,1,Single adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-020,06037206301,Los Angeles County tract 206301,47,2,Two-adult household,Lower-middle,Yes,Remote worker,None,None,0,0,Low,13831,82.6,74.0,0.8,22.0
+ACS-021,06037206302,Los Angeles County tract 206302,64,2,Two-adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-022,06037206302,Los Angeles County tract 206302,44,1,Single adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-023,06037206302,Los Angeles County tract 206302,49,2,Shared adult household,Upper-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-024,06037206302,Los Angeles County tract 206302,53,1,Single adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-025,06037206302,Los Angeles County tract 206302,24,2,Two-adult household,Low,Yes,Employed full-time,None,None,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-026,06037206302,Los Angeles County tract 206302,40,1,Single adult household,Low,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-027,06037206302,Los Angeles County tract 206302,29,1,Single adult household,Lower-middle,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-028,06037206302,Los Angeles County tract 206302,38,1,Single adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-029,06037206302,Los Angeles County tract 206302,39,2,Two-adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-030,06037206302,Los Angeles County tract 206302,48,1,Single adult household,Lower-middle,Yes,Remote worker,None,None,0,0,Low,7000,85.0,67.5,0.0,10.2
+ACS-031,06037206202,Los Angeles County tract 206202,41,2,Shared adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,22668,62.9,42.2,4.1,50.7
+ACS-032,06037206202,Los Angeles County tract 206202,47,2,Two-adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,22668,62.9,42.2,4.1,50.7
+ACS-033,06037206202,Los Angeles County tract 206202,48,2,Two-adult household,Lower-middle,Yes,Employed full-time,None,None,0,0,Low,22668,62.9,42.2,4.1,50.7
+ACS-034,06037206202,Los Angeles County tract 206202,27,1,Single adult household,Lower-middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,22668,62.9,42.2,4.1,50.7
+ACS-035,06037206202,Los Angeles County tract 206202,69,2,Shared adult household,Lower-middle,Yes,Retired,Older adult mobility or medication needs,Reduced mobility for household head,0,1,Low,22668,62.9,42.2,4.1,50.7
+ACS-036,06037206202,Los Angeles County tract 206202,38,2,Two-adult household,Upper-middle,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,22668,62.9,42.2,4.1,50.7
+ACS-037,06037206202,Los Angeles County tract 206202,68,1,Single adult household,Low,Yes,Employed full-time,Older adult mobility or medication needs,Reduced mobility for household head,0,1,Low,22668,62.9,42.2,4.1,50.7
+ACS-038,06037206202,Los Angeles County tract 206202,67,1,Single adult household,Upper-middle,Yes,Employed part-time,None,None,0,1,Low,22668,62.9,42.2,4.1,50.7
+ACS-039,06037206202,Los Angeles County tract 206202,42,1,Single adult household,Middle,Yes,Remote worker,None,None,0,0,Low,22668,62.9,42.2,4.1,50.7
+ACS-040,06037206202,Los Angeles County tract 206202,87,1,Single adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,1,Low,22668,62.9,42.2,4.1,50.7
+ACS-041,06037208904,Los Angeles County tract 208904,48,2,Two-adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-042,06037208904,Los Angeles County tract 208904,38,2,Two-adult household,Low,Yes,Employed part-time,None,None,0,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-043,06037208904,Los Angeles County tract 208904,40,2,Two-adult household,Middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-044,06037208904,Los Angeles County tract 208904,82,2,Two-adult household,Low,No,Retired,None,No private vehicle; depends on transit or rides,0,1,Low,26640,62.4,57.2,27.8,16.0
+ACS-045,06037208904,Los Angeles County tract 208904,41,2,Two-adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-046,06037208904,Los Angeles County tract 208904,83,1,Single adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,1,Low,26640,62.4,57.2,27.8,16.0
+ACS-047,06037208904,Los Angeles County tract 208904,30,3,Shared adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-048,06037208904,Los Angeles County tract 208904,42,4,Household with children,Lower-middle,Yes,Remote worker,None,None,1,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-049,06037208904,Los Angeles County tract 208904,49,3,Two-adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,26640,62.4,57.2,27.8,16.0
+ACS-050,06037208904,Los Angeles County tract 208904,70,3,Two-adult household,Middle,Yes,Remote worker,None,Reduced mobility for household head,0,1,Low,26640,62.4,57.2,27.8,16.0
+ACS-051,06037224702,Los Angeles County tract 224702,63,2,Two-adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-052,06037224702,Los Angeles County tract 224702,65,2,Two-adult household,Low,Yes,Employed full-time,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-053,06037224702,Los Angeles County tract 224702,54,1,Single adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-054,06037224702,Los Angeles County tract 224702,34,2,Shared adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-055,06037224702,Los Angeles County tract 224702,32,2,Two-adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-056,06037224702,Los Angeles County tract 224702,61,2,Two-adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-057,06037224702,Los Angeles County tract 224702,66,4,Shared adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-058,06037224702,Los Angeles County tract 224702,39,2,Two-adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-059,06037224702,Los Angeles County tract 224702,43,3,Shared adult household,Lower-middle,Yes,Remote worker,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-060,06037224702,Los Angeles County tract 224702,28,4,Two-adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,11270,50.0,77.8,1.1,3.5
+ACS-061,06037207304,Los Angeles County tract 207304,56,1,Single adult household,Middle,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-062,06037207304,Los Angeles County tract 207304,55,2,Two-adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-063,06037207304,Los Angeles County tract 207304,25,2,Shared adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-064,06037207304,Los Angeles County tract 207304,40,3,Two-adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-065,06037207304,Los Angeles County tract 207304,63,1,Single adult household,Low,Yes,Employed full-time,None,None,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-066,06037207304,Los Angeles County tract 207304,47,2,Two-adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-067,06037207304,Los Angeles County tract 207304,39,1,Single adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-068,06037207304,Los Angeles County tract 207304,30,1,Single adult household,Low,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-069,06037207304,Los Angeles County tract 207304,87,1,Single adult household,Low,No,Remote worker,Older adult mobility or medication needs,No private vehicle; depends on transit or rides,0,1,Low,13735,68.9,43.8,10.4,12.8
+ACS-070,06037207304,Los Angeles County tract 207304,27,2,Two-adult household,Middle,Yes,Retired,None,None,0,0,Low,13735,68.9,43.8,10.4,12.8
+ACS-071,06037980014,Los Angeles County tract 980014,25,2,Two-adult household,Low,Yes,Retired,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-072,06037980014,Los Angeles County tract 980014,36,4,Shared adult household,Low,Yes,Employed full-time,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-073,06037980014,Los Angeles County tract 980014,27,5,Two-adult household,Middle,Yes,Employed part-time,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-074,06037980014,Los Angeles County tract 980014,46,4,Two-adult household,Low,Yes,Retired,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-075,06037980014,Los Angeles County tract 980014,38,4,Shared adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-076,06037980014,Los Angeles County tract 980014,43,4,Two-adult household,Low,Yes,Remote worker,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-077,06037980014,Los Angeles County tract 980014,44,5,Two-adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-078,06037980014,Los Angeles County tract 980014,59,5,Two-adult household,Lower-middle,Yes,Retired,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-079,06037980014,Los Angeles County tract 980014,86,5,Shared adult household,Lower-middle,Yes,Employed part-time,None,None,0,1,Low,0,0.0,100.0,0.0,55.0
+ACS-080,06037980014,Los Angeles County tract 980014,53,4,Shared adult household,Lower-middle,Yes,Retired,None,None,0,0,Low,0,0.0,100.0,0.0,55.0
+ACS-081,06037207307,Los Angeles County tract 207307,25,1,Single adult household,Low,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-082,06037207307,Los Angeles County tract 207307,63,1,Single adult household,Upper-middle,Yes,Employed part-time,None,None,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-083,06037207307,Los Angeles County tract 207307,49,3,Two-adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-084,06037207307,Los Angeles County tract 207307,55,2,Two-adult household,Middle,Yes,Student/caregiver at home,None,None,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-085,06037207307,Los Angeles County tract 207307,40,1,Single adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-086,06037207307,Los Angeles County tract 207307,58,1,Single adult household,Lower-middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-087,06037207307,Los Angeles County tract 207307,33,1,Single adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-088,06037207307,Los Angeles County tract 207307,33,1,Single adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-089,06037207307,Los Angeles County tract 207307,58,2,Two-adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-090,06037207307,Los Angeles County tract 207307,58,1,Single adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,0,64.8,44.8,2.3,5.8
+ACS-091,06037207502,Los Angeles County tract 207502,38,1,Single adult household,Lower-middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-092,06037207502,Los Angeles County tract 207502,52,1,Single adult household,Middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-093,06037207502,Los Angeles County tract 207502,86,2,Shared adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,1,Low,20202,43.6,40.5,4.6,41.8
+ACS-094,06037207502,Los Angeles County tract 207502,74,1,Single adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,1,Low,20202,43.6,40.5,4.6,41.8
+ACS-095,06037207502,Los Angeles County tract 207502,85,2,Two-adult household,Low,Yes,Employed part-time,None,None,0,1,Low,20202,43.6,40.5,4.6,41.8
+ACS-096,06037207502,Los Angeles County tract 207502,55,2,Two-adult household,Lower-middle,Yes,Retired,None,None,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-097,06037207502,Los Angeles County tract 207502,49,2,Two-adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-098,06037207502,Los Angeles County tract 207502,55,1,Single adult household,Low,Yes,Employed full-time,None,None,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-099,06037207502,Los Angeles County tract 207502,57,1,Single adult household,Lower-middle,Yes,Employed full-time,None,None,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-100,06037207502,Los Angeles County tract 207502,65,1,Single adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,20202,43.6,40.5,4.6,41.8
+ACS-101,06037209401,Los Angeles County tract 209401,29,3,Two-adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-102,06037209401,Los Angeles County tract 209401,46,1,Single adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-103,06037209401,Los Angeles County tract 209401,38,2,Two-adult household,Lower-middle,Yes,Retired,None,None,0,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-104,06037209401,Los Angeles County tract 209401,32,3,Household with children,Lower-middle,No,Student/caregiver at home,Child caregiving responsibilities,No private vehicle; depends on transit or rides,1,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-105,06037209401,Los Angeles County tract 209401,31,1,Single adult household,Middle,Yes,Retired,None,None,0,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-106,06037209401,Los Angeles County tract 209401,74,2,Shared adult household,Middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,1,Low,32361,65.5,21.6,19.3,23.3
+ACS-107,06037209401,Los Angeles County tract 209401,80,2,Two-adult household,Low,Yes,Employed full-time,Older adult mobility or medication needs,None,0,1,Low,32361,65.5,21.6,19.3,23.3
+ACS-108,06037209401,Los Angeles County tract 209401,44,5,Household with children,Lower-middle,No,Retired,Child caregiving responsibilities,No private vehicle; depends on transit or rides,1,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-109,06037209401,Los Angeles County tract 209401,86,2,Two-adult household,Middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,1,Low,32361,65.5,21.6,19.3,23.3
+ACS-110,06037209401,Los Angeles County tract 209401,40,2,Two-adult household,Middle,Yes,Employed full-time,None,None,0,0,Low,32361,65.5,21.6,19.3,23.3
+ACS-111,06037208902,Los Angeles County tract 208902,31,3,Shared adult household,Lower-middle,Yes,Employed full-time,None,None,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-112,06037208902,Los Angeles County tract 208902,24,6,Two-adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-113,06037208902,Los Angeles County tract 208902,35,4,Shared adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-114,06037208902,Los Angeles County tract 208902,61,4,Shared adult household,Middle,Yes,Student/caregiver at home,None,None,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-115,06037208902,Los Angeles County tract 208902,43,6,Two-adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-116,06037208902,Los Angeles County tract 208902,60,3,Household with children,Low,No,Retired,Child caregiving responsibilities,No private vehicle; depends on transit or rides,1,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-117,06037208902,Los Angeles County tract 208902,69,3,Shared adult household,Lower-middle,Yes,Remote worker,None,Reduced mobility for household head,0,1,Low,37759,53.6,44.5,29.6,4.7
+ACS-118,06037208902,Los Angeles County tract 208902,56,3,Two-adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-119,06037208902,Los Angeles County tract 208902,29,3,Two-adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-120,06037208902,Los Angeles County tract 208902,59,3,Shared adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,37759,53.6,44.5,29.6,4.7
+ACS-121,06037222700,Los Angeles County tract 222700,47,2,Two-adult household,Middle,Yes,Remote worker,None,None,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-122,06037222700,Los Angeles County tract 222700,60,3,Two-adult household,Low,Yes,Retired,None,None,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-123,06037222700,Los Angeles County tract 222700,40,3,Two-adult household,Low,Yes,Employed full-time,None,None,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-124,06037222700,Los Angeles County tract 222700,49,4,Two-adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-125,06037222700,Los Angeles County tract 222700,63,3,Shared adult household,Middle,Yes,Employed full-time,None,None,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-126,06037222700,Los Angeles County tract 222700,62,6,Shared adult household,Lower-middle,Yes,Remote worker,None,None,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-127,06037222700,Los Angeles County tract 222700,29,2,Two-adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-128,06037222700,Los Angeles County tract 222700,57,5,Shared adult household,Low,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-129,06037222700,Los Angeles County tract 222700,41,3,Two-adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-130,06037222700,Los Angeles County tract 222700,63,1,Single adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,51250,41.2,61.9,1.3,0.0
+ACS-131,06037265304,Los Angeles County tract 265304,44,3,Two-adult household,Middle,Yes,Retired,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-132,06037265304,Los Angeles County tract 265304,65,3,Two-adult household,Low,Yes,Remote worker,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-133,06037265304,Los Angeles County tract 265304,66,3,Two-adult household,Low,Yes,Employed full-time,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-134,06037265304,Los Angeles County tract 265304,37,3,Two-adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-135,06037265304,Los Angeles County tract 265304,61,3,Household with children,Lower-middle,Yes,Employed full-time,None,None,1,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-136,06037265304,Los Angeles County tract 265304,58,2,Two-adult household,Low,Yes,Employed full-time,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-137,06037265304,Los Angeles County tract 265304,47,4,Two-adult household,Low,Yes,Remote worker,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-138,06037265304,Los Angeles County tract 265304,26,2,Shared adult household,Upper-middle,Yes,Employed part-time,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-139,06037265304,Los Angeles County tract 265304,26,5,Two-adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-140,06037265304,Los Angeles County tract 265304,34,3,Two-adult household,Low,Yes,Retired,None,None,0,0,Low,18366,30.8,73.7,1.4,1.0
+ACS-141,06037209402,Los Angeles County tract 209402,39,5,Household with children,Middle,Yes,Remote worker,None,None,1,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-142,06037209402,Los Angeles County tract 209402,59,1,Single adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-143,06037209402,Los Angeles County tract 209402,30,4,Household with children,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,1,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-144,06037209402,Los Angeles County tract 209402,78,3,Multigenerational household with children,Middle,No,Employed full-time,Older adult mobility or medication needs,No private vehicle; depends on transit or rides,1,1,Low,47783,59.9,29.1,25.0,8.2
+ACS-145,06037209402,Los Angeles County tract 209402,49,2,Shared adult household,Middle,Yes,Remote worker,None,None,0,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-146,06037209402,Los Angeles County tract 209402,37,4,Shared adult household,Low,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-147,06037209402,Los Angeles County tract 209402,55,1,Single adult household,Low,Yes,Employed full-time,None,None,0,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-148,06037209402,Los Angeles County tract 209402,55,1,Single adult household,Middle,Yes,Employed part-time,None,None,0,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-149,06037209402,Los Angeles County tract 209402,64,4,Household with children,Lower-middle,Yes,Student/caregiver at home,Child caregiving responsibilities,None,1,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-150,06037209402,Los Angeles County tract 209402,60,3,Shared adult household,Lower-middle,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,47783,59.9,29.1,25.0,8.2
+ACS-151,06037575803,Los Angeles County tract 575803,65,3,Household with children,Low,No,Remote worker,Child caregiving responsibilities,No private vehicle; depends on transit or rides,1,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-152,06037575803,Los Angeles County tract 575803,49,2,Shared adult household,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-153,06037575803,Los Angeles County tract 575803,56,3,Household with children,Low,Yes,Employed full-time,None,None,1,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-154,06037575803,Los Angeles County tract 575803,47,3,Shared adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-155,06037575803,Los Angeles County tract 575803,34,1,Single adult household,Lower-middle,Yes,Remote worker,None,None,0,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-156,06037575803,Los Angeles County tract 575803,77,1,Single adult household,Low,Yes,Employed full-time,Older adult mobility or medication needs,None,0,1,Low,23827,36.0,44.4,13.7,35.1
+ACS-157,06037575803,Los Angeles County tract 575803,76,3,Shared adult household,Low,Yes,Employed part-time,None,None,0,1,Low,23827,36.0,44.4,13.7,35.1
+ACS-158,06037575803,Los Angeles County tract 575803,37,2,Two-adult household,Upper-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-159,06037575803,Los Angeles County tract 575803,51,1,Single adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-160,06037575803,Los Angeles County tract 575803,35,2,Two-adult household,Low,Yes,Retired,None,None,0,0,Low,23827,36.0,44.4,13.7,35.1
+ACS-161,06037209103,Los Angeles County tract 209103,74,2,Shared adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,1,Low,32550,46.1,46.4,31.8,7.0
+ACS-162,06037209103,Los Angeles County tract 209103,65,4,Two-adult household,Lower-middle,Yes,Employed part-time,None,None,0,0,Low,32550,46.1,46.4,31.8,7.0
+ACS-163,06037209103,Los Angeles County tract 209103,59,4,Household with children,Low,Yes,Remote worker,None,None,1,0,Low,32550,46.1,46.4,31.8,7.0
+ACS-164,06037209103,Los Angeles County tract 209103,74,3,Two-adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,1,Low,32550,46.1,46.4,31.8,7.0
+ACS-165,06037209103,Los Angeles County tract 209103,51,3,Shared adult household,Low,Yes,Employed part-time,None,None,0,0,Low,32550,46.1,46.4,31.8,7.0
+ACS-166,06037209103,Los Angeles County tract 209103,26,4,Household with children,Middle,Yes,Remote worker,None,None,1,0,Low,32550,46.1,46.4,31.8,7.0
+ACS-167,06037209103,Los Angeles County tract 209103,84,4,Multigenerational household with children,Lower-middle,No,Student/caregiver at home,Child caregiving responsibilities,No private vehicle; depends on transit or rides,1,1,Low,32550,46.1,46.4,31.8,7.0
+ACS-168,06037209103,Los Angeles County tract 209103,34,3,Two-adult household,Lower-middle,Yes,Employed full-time,None,None,0,0,Low,32550,46.1,46.4,31.8,7.0
+ACS-169,06037209103,Los Angeles County tract 209103,59,5,Household with children,Low,Yes,Remote worker,None,None,1,0,Low,32550,46.1,46.4,31.8,7.0
+ACS-170,06037209103,Los Angeles County tract 209103,77,5,Multigenerational household with children,Lower-middle,Yes,Employed part-time,Child caregiving responsibilities,None,1,1,Low,32550,46.1,46.4,31.8,7.0
+ACS-171,06037209105,Los Angeles County tract 209105,63,4,Shared adult household,Low,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-172,06037209105,Los Angeles County tract 209105,55,2,Two-adult household,Lower-middle,Yes,Retired,None,None,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-173,06037209105,Los Angeles County tract 209105,40,3,Shared adult household,Low,Yes,Remote worker,None,None,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-174,06037209105,Los Angeles County tract 209105,41,4,Household with children,Lower-middle,Yes,Remote worker,None,None,1,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-175,06037209105,Los Angeles County tract 209105,47,4,Household with children,Lower-middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,1,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-176,06037209105,Los Angeles County tract 209105,40,4,Shared adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-177,06037209105,Los Angeles County tract 209105,42,4,Shared adult household,Lower-middle,Yes,Student/caregiver at home,None,None,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-178,06037209105,Los Angeles County tract 209105,62,5,Shared adult household,Upper-middle,Yes,Employed part-time,None,None,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-179,06037209105,Los Angeles County tract 209105,48,3,Shared adult household,Lower-middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-180,06037209105,Los Angeles County tract 209105,36,4,Shared adult household,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,0,0,Low,34092,42.9,49.3,39.8,8.0
+ACS-181,06037209403,Los Angeles County tract 209403,41,3,Household with children,Low,No,Remote worker,None,No private vehicle; depends on transit or rides,1,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-182,06037209403,Los Angeles County tract 209403,80,2,Two-adult household,Lower-middle,Yes,Student/caregiver at home,None,Reduced mobility for household head,0,1,Low,31806,56.9,25.2,29.4,18.0
+ACS-183,06037209403,Los Angeles County tract 209403,60,2,Two-adult household,Lower-middle,Yes,Retired,None,None,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-184,06037209403,Los Angeles County tract 209403,44,4,Two-adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-185,06037209403,Los Angeles County tract 209403,52,3,Household with children,Middle,Yes,Student/caregiver at home,Child caregiving responsibilities,None,1,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-186,06037209403,Los Angeles County tract 209403,48,2,Two-adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-187,06037209403,Los Angeles County tract 209403,25,3,Shared adult household,Low,Yes,Retired,None,None,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-188,06037209403,Los Angeles County tract 209403,66,1,Single adult household,Low,Yes,Student/caregiver at home,None,None,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-189,06037209403,Los Angeles County tract 209403,58,5,Two-adult household,Middle,Yes,Remote worker,None,None,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-190,06037209403,Los Angeles County tract 209403,42,2,Shared adult household,Lower-middle,No,Remote worker,None,No private vehicle; depends on transit or rides,0,0,Low,31806,56.9,25.2,29.4,18.0
+ACS-191,06037242600,Los Angeles County tract 242600,63,5,Household with children,Low,Yes,Retired,Child caregiving responsibilities,None,1,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-192,06037242600,Los Angeles County tract 242600,64,5,Shared adult household,Lower-middle,Yes,Remote worker,None,None,0,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-193,06037242600,Los Angeles County tract 242600,48,3,Two-adult household,Lower-middle,No,Student/caregiver at home,None,No private vehicle; depends on transit or rides,0,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-194,06037242600,Los Angeles County tract 242600,58,5,Household with children,Lower-middle,No,Retired,None,No private vehicle; depends on transit or rides,1,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-195,06037242600,Los Angeles County tract 242600,41,3,Household with children,Lower-middle,Yes,Retired,None,None,1,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-196,06037242600,Los Angeles County tract 242600,46,4,Household with children,Lower-middle,Yes,Student/caregiver at home,None,None,1,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-197,06037242600,Los Angeles County tract 242600,28,4,Household with children,Low,Yes,Employed part-time,Child caregiving responsibilities,None,1,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-198,06037242600,Los Angeles County tract 242600,63,4,Shared adult household,Middle,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-199,06037242600,Los Angeles County tract 242600,26,2,Two-adult household,Low,No,Employed part-time,None,No private vehicle; depends on transit or rides,0,0,Low,19955,42.5,52.2,44.1,2.2
+ACS-200,06037242600,Los Angeles County tract 242600,29,5,Shared adult household,Low,No,Employed full-time,None,No private vehicle; depends on transit or rides,0,0,Low,19955,42.5,52.2,44.1,2.2
