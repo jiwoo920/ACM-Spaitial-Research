@@ -1,0 +1,3 @@
+condition,n,violation_or_spatial_inconsistency_rate,spatial_inconsistency_rate,public_transit_mode_rate,ride_with_family_friend_rate,emergency_transport_rate,public_shelter_destination_rate
+baseline,8,100.0,100.0,100.0,0.0,0.0,0.0
+spatial_grounded,8,87.5,87.5,25.0,50.0,0.0,100.0

@@ -1,0 +1,8 @@
+condition,income_group,destination_type,n,share_percent
+baseline,lower_income,Friend/relative home,158,95.2
+baseline,lower_income,Outside evacuation zone,1,0.6
+baseline,lower_income,Public shelter,7,4.2
+baseline,higher_income,Friend/relative home,34,100.0
+spatial_grounded,lower_income,Friend/relative home,1,0.6
+spatial_grounded,lower_income,Public shelter,165,99.4
+spatial_grounded,higher_income,Public shelter,34,100.0

@@ -115,6 +115,35 @@ Author metadata in the submitted paper:
 - Category: Undergraduate SRC
 - Student authors: 1
 
+## Exploratory Result Candidates
+
+Professor feedback requested generating several result candidates before choosing the final SRC figure/table set. These candidates can be regenerated without new LLM calls:
+
+```bash
+python3 scripts/generate_result_candidates.py
+```
+
+Optional candidate figures use R packages `ggplot2` and `jsonlite`:
+
+```bash
+Rscript scripts/make_candidate_figures.R
+```
+
+Generated candidate outputs include:
+
+- `outputs/result_candidates/income_group_analysis.csv`
+- `outputs/result_candidates/income_destination_analysis.csv`
+- `outputs/result_candidates/transit_access_mode_analysis.csv`
+- `outputs/result_candidates/no_vehicle_transit_access_analysis.csv`
+- `outputs/result_candidates/fire_distance_analysis.csv`
+- `outputs/result_candidates/selected_tracts_fire_map.geojson`
+- `outputs/result_candidates/cross_model_comparison_summary.csv`
+- `outputs/result_candidates/candidate_recommendations.md`
+- `figures/result_candidates/selected_tracts_fire_map.png`
+- `figures/result_candidates/cross_model_heatmap.png`
+
+The fire-distance/map candidate uses TIGERweb tract geometry and an exploratory representative wildfire point near Griffith Park. It should not be described as a verified wildfire perimeter or operational risk surface.
+
 ## Notes on Scope
 
 This package supports reproducibility of the SRC analysis and figures. It does not include:

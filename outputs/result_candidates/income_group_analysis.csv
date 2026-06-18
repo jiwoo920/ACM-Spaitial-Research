@@ -1,0 +1,5 @@
+group,condition,n,violation_or_spatial_inconsistency_rate,spatial_inconsistency_rate,soft_feasibility_issue_rate,public_shelter_destination_rate,hotel_motel_destination_rate,mean_feasibility_score,mean_spatial_consistency_score
+lower_income,baseline,166,43.4,43.4,4.8,4.2,0.0,0.949,0.892
+higher_income,baseline,34,38.2,38.2,0.0,0.0,0.0,0.962,0.904
+lower_income,spatial_grounded,166,45.8,45.8,1.2,99.4,0.0,0.952,0.886
+higher_income,spatial_grounded,34,38.2,38.2,0.0,100.0,0.0,0.959,0.897

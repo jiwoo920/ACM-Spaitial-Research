@@ -1,0 +1,7 @@
+condition,fire_distance_group,n,mean_distance_to_fire_km,evacuate_now_rate,delay_rate,stay_rate,high_urgency_rate,spatial_inconsistency_rate,public_shelter_destination_rate,hotel_motel_destination_rate,friend_relative_destination_rate
+baseline,near,70,9.15,100.0,0.0,0.0,100.0,40.0,2.9,0.0,97.1
+baseline,medium,70,11.03,100.0,0.0,0.0,100.0,58.6,5.7,0.0,92.9
+baseline,far,60,24.22,100.0,0.0,0.0,100.0,26.7,1.7,0.0,98.3
+spatial_grounded,near,70,9.15,100.0,0.0,0.0,98.6,42.9,100.0,0.0,0.0
+spatial_grounded,medium,70,11.03,100.0,0.0,0.0,100.0,62.9,98.6,0.0,1.4
+spatial_grounded,far,60,24.22,96.7,3.3,0.0,96.7,25.0,100.0,0.0,0.0
