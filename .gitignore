@@ -16,6 +16,7 @@ venv/
 
 # macOS and editor files
 .DS_Store
+.Rhistory
 *.swp
 *.swo
 .vscode/

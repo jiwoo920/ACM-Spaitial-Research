@@ -133,6 +133,10 @@ Generated candidate outputs include:
 
 - `outputs/result_candidates/income_group_analysis.csv`
 - `outputs/result_candidates/income_destination_analysis.csv`
+- `outputs/main_experiment_gpt_acs_200/income_transportation_mode_analysis.csv`
+- `outputs/main_experiment_gpt_acs_200/income_transportation_mode_table.md`
+- `figures/main_experiment_gpt_acs_200/income_transportation_mode_stackedbar.png`
+- `figures/main_experiment_gpt_acs_200/income_transportation_mode_pies.png`
 - `outputs/result_candidates/transit_access_mode_analysis.csv`
 - `outputs/result_candidates/no_vehicle_transit_access_analysis.csv`
 - `outputs/result_candidates/fire_distance_analysis.csv`
@@ -143,6 +147,13 @@ Generated candidate outputs include:
 - `figures/result_candidates/cross_model_heatmap.png`
 
 The fire-distance/map candidate uses TIGERweb tract geometry and an exploratory representative wildfire point near Griffith Park. It should not be described as a verified wildfire perimeter or operational risk surface.
+
+Income-by-transportation-mode candidates can be regenerated with:
+
+```bash
+python3 scripts/analyze_income_transportation_modes.py
+Rscript scripts/make_income_transportation_figures.R
+```
 
 ## Notes on Scope
 

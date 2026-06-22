@@ -1,0 +1,29 @@
+income_group,condition,condition_raw,transportation_mode,count,percentage,total_responses
+Lower income,Baseline,baseline,Private vehicle,89,53.614,166
+Lower income,Baseline,baseline,Public transit,77,46.386,166
+Lower income,Baseline,baseline,Ride with family/friend,0,0.0,166
+Lower income,Baseline,baseline,Emergency transport,0,0.0,166
+Lower income,Baseline,baseline,Walk,0,0.0,166
+Lower income,Baseline,baseline,Mixed/other,0,0.0,166
+Lower income,Baseline,baseline,No transportation,0,0.0,166
+Lower income,Spatially grounded,spatial_grounded,Private vehicle,89,53.614,166
+Lower income,Spatially grounded,spatial_grounded,Public transit,71,42.771,166
+Lower income,Spatially grounded,spatial_grounded,Ride with family/friend,4,2.41,166
+Lower income,Spatially grounded,spatial_grounded,Emergency transport,0,0.0,166
+Lower income,Spatially grounded,spatial_grounded,Walk,2,1.205,166
+Lower income,Spatially grounded,spatial_grounded,Mixed/other,0,0.0,166
+Lower income,Spatially grounded,spatial_grounded,No transportation,0,0.0,166
+Higher income,Baseline,baseline,Private vehicle,21,61.765,34
+Higher income,Baseline,baseline,Public transit,12,35.294,34
+Higher income,Baseline,baseline,Ride with family/friend,1,2.941,34
+Higher income,Baseline,baseline,Emergency transport,0,0.0,34
+Higher income,Baseline,baseline,Walk,0,0.0,34
+Higher income,Baseline,baseline,Mixed/other,0,0.0,34
+Higher income,Baseline,baseline,No transportation,0,0.0,34
+Higher income,Spatially grounded,spatial_grounded,Private vehicle,21,61.765,34
+Higher income,Spatially grounded,spatial_grounded,Public transit,13,38.235,34
+Higher income,Spatially grounded,spatial_grounded,Ride with family/friend,0,0.0,34
+Higher income,Spatially grounded,spatial_grounded,Emergency transport,0,0.0,34
+Higher income,Spatially grounded,spatial_grounded,Walk,0,0.0,34
+Higher income,Spatially grounded,spatial_grounded,Mixed/other,0,0.0,34
+Higher income,Spatially grounded,spatial_grounded,No transportation,0,0.0,34
