@@ -1,0 +1,13 @@
+check,condition,rate
+"Public transit selected
+when transit is limited",Baseline,26.6667
+"Public transit selected
+when transit is limited",Spatially grounded,6.6667000000000005
+"Public transit selected for
+no-vehicle + limited/no transit",Baseline,100.0
+"Public transit selected for
+no-vehicle + limited/no transit",Spatially grounded,25.0
+"Violation/inconsistency for
+no-vehicle + limited/no transit",Baseline,100.0
+"Violation/inconsistency for
+no-vehicle + limited/no transit",Spatially grounded,87.5

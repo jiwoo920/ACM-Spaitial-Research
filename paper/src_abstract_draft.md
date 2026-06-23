@@ -12,7 +12,7 @@ Large language models (LLMs) can generate fluent household-level evacuation plan
 
 We generate 200 synthetic household personas calibrated using official ACS tract-level socioeconomic and demographic variables for Los Angeles County. Each persona is paired with approximate spatial risk and distance attributes, including wildfire risk, shelter distance, road travel time, hazard-zone distance, transit access, and neighborhood vulnerability. GPT-4.1-mini produced 400 structured responses across 200 personas and 2 prompting conditions.
 
-Spatially grounded prompting improved selected feasibility metrics: mode feasibility increased from 96.0% to 99.0%, and soft feasibility issues decreased from 4.0% to 1.0%. However, it did not eliminate spatial inconsistency under the current approximate spatial context: spatial inconsistency was 42.5% in baseline and 44.5% in the spatially grounded condition. The strongest finding concerns vehicle access. Vehicle-access households had 0.0% violation/spatial-inconsistency rates in both conditions, while no-vehicle households had very high rates: 94.4% in baseline and 98.9% in spatially grounded prompting. These results suggest that LLM-generated evacuation decisions may sound plausible, but feasibility risks remain, especially for no-vehicle households.
+Spatially grounded prompting improved selected feasibility metrics: mode feasibility increased from 96.0% to 99.0%, and soft feasibility issues decreased from 4.0% to 1.0%. However, it did not eliminate spatial inconsistency under the current approximate spatial context: spatial inconsistency was 42.5% in baseline and 44.5% in the spatially grounded condition. Transit-aware checks showed a more direct pattern: spatially grounded prompting reduced some public-transit mismatches, but high residual risk remained for no-vehicle households with limited or no transit access. These results suggest that LLM-generated evacuation decisions may sound plausible, but feasibility risks remain for mobility-constrained households.
 
 ## 1. Introduction
 
@@ -48,21 +48,11 @@ The main experiment produced 400 validated responses: 200 baseline and 200 spati
 | Mean feasibility score | 0.952 | 0.954 | +0.002 |
 | Mean spatial consistency score | 0.894 | 0.887 | -0.007 |
 
-The clearest result is the disparity by vehicle access. Figure 1 shows that households with vehicles had 0.0% violation/spatial-inconsistency rates in both prompting conditions. In contrast, no-vehicle households had very high rates: 94.4% in baseline and 98.9% in spatially grounded prompting. Fisher's exact tests confirm that the difference between vehicle-access and no-vehicle households is large in both conditions (p < 0.001). The additional spatial context did not resolve feasibility risk for the group most dependent on public, shared, or assisted transportation.
+Vehicle access remained an important subgroup: no-vehicle households had much higher risk than vehicle-access households. Figure 1 focuses on transit-related feasibility checks that more directly address whether spatially grounded prompting reduces risks and where risks remain. Spatially grounded prompting reduced public-transit recommendations when transit access was limited, from 26.7% to 6.7%. In the no-vehicle + limited/no transit subgroup, it also reduced public-transit choices from 100.0% to 25.0%, but violation/spatial-inconsistency rates remained high, falling only from 100.0% to 87.5%. Because this subgroup is small (n = 8 personas per condition), these results are treated as exploratory rather than generalizable.
 
-![Figure 1. Violation/spatial-inconsistency rate by vehicle access](../figures/main_experiment_gpt_acs_200/violation_by_vehicle_access.png)
+![Figure 1. Transit-aware prompting reduces public-transit mismatches but leaves residual mobility risk](../figures/main_experiment_gpt_acs_200/transit_feasibility_figure1_candidate.png)
 
-**Figure 1. Violation/spatial-inconsistency rate by vehicle access.** No-vehicle households remain the dominant source of feasibility risk under both prompting conditions.
-
-As an exploratory secondary analysis, Table 2 summarizes transit-access checks that help explain why no-vehicle households remain difficult for LLM-generated evacuation planning. Spatially grounded prompting reduced public-transit recommendations under limited transit access, suggesting that the model used some spatial context. However, the no-vehicle + limited/no transit subgroup still had high violation/spatial-inconsistency rates, indicating that transit-aware prompting did not fully resolve mobility feasibility risks. Within this subgroup, shelter-based destinations remained common, leaving weakly feasible plans when transit or assisted transport was not reliable. Because this subgroup is small (n = 8 personas per condition), these results are treated as explanatory rather than generalizable.
-
-**Table 2. Secondary transit-access analysis. The no-vehicle + limited/no transit subgroup includes n = 8 personas per condition.**
-
-| Transit-access check | Baseline | Spatial |
-|---|---:|---:|
-| Public transit selected when transit access is limited | 26.7% | 6.7% |
-| Violation/inconsistency for no-vehicle + limited/no transit | 100.0% | 87.5% |
-| Public transit selected for no-vehicle + limited/no transit | 100.0% | 25.0% |
+**Figure 1. Transit-aware prompting reduces public-transit mismatches but leaves residual mobility risk.** The no-vehicle + limited/no transit subgroup includes n = 8 personas per condition.
 
 These findings should not be read as evidence that spatial prompting is ineffective. One possible explanation is that spatially grounded prompts encouraged the model to make more explicit spatial claims about shelters, transit access, and travel distance. Because the spatial attributes in this pilot are approximate, these additional claims may have increased the chance of triggering spatial-consistency checks even when mode feasibility improved. For example, some no-vehicle personas were assigned shelter-based evacuation plans despite limited transit access or long estimated shelter travel times. These responses were fluent and policy-relevant in language, but weakly feasible under the provided mobility constraints.
 
