@@ -1,0 +1,7 @@
+subgroup,n_pairs,decision changed,mode changed,destination changed,urgency changed,reasoning spatial keyword mention changed
+All personas,200,1.0,3.5,96.0,1.5,0.5
+No-vehicle households,90,2.2,7.8,92.2,2.2,0.0
+Vehicle-access households,110,0.0,0.0,99.1,0.9,0.9
+Limited/no transit households,40,5.0,15.0,100.0,5.0,0.0
+Lower-income households,166,1.2,3.6,95.2,1.2,0.0
+Higher-income households,34,0.0,2.9,100.0,2.9,2.9

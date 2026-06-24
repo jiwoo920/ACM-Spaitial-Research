@@ -1,0 +1,9 @@
+condition_label,transit_access,public_transit_selected_rate,violation_or_spatial_inconsistency_rate
+Baseline,Good,52.3,49.2
+Baseline,Limited,26.7,26.7
+Baseline,Moderate,43.3,43.3
+Baseline,None,0.0,0.0
+Spatially grounded,Good,53.1,53.1
+Spatially grounded,Limited,6.7,23.3
+Spatially grounded,Moderate,43.3,43.3
+Spatially grounded,None,0.0,0.0

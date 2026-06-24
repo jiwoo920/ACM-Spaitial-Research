@@ -1,0 +1,18 @@
+condition_label,transit_access,transportation_mode,count,percentage,n,public_transit_selected_rate,violation_or_spatial_inconsistency_rate
+Baseline,Good,Private vehicle,61,46.9,130,52.3,49.2
+Baseline,Good,Public transit,68,52.3,130,52.3,49.2
+Baseline,Good,Ride with family/friend,1,0.8,130,52.3,49.2
+Baseline,Limited,Private vehicle,22,73.3,30,26.7,26.7
+Baseline,Limited,Public transit,8,26.7,30,26.7,26.7
+Baseline,Moderate,Private vehicle,17,56.7,30,43.3,43.3
+Baseline,Moderate,Public transit,13,43.3,30,43.3,43.3
+Baseline,None,Private vehicle,10,100.0,10,0.0,0.0
+Spatially grounded,Good,Private vehicle,61,46.9,130,53.1,53.1
+Spatially grounded,Good,Public transit,69,53.1,130,53.1,53.1
+Spatially grounded,Limited,Private vehicle,22,73.3,30,6.7,23.3
+Spatially grounded,Limited,Public transit,2,6.7,30,6.7,23.3
+Spatially grounded,Limited,Ride with family/friend,4,13.3,30,6.7,23.3
+Spatially grounded,Limited,Walk,2,6.7,30,6.7,23.3
+Spatially grounded,Moderate,Private vehicle,17,56.7,30,43.3,43.3
+Spatially grounded,Moderate,Public transit,13,43.3,30,43.3,43.3
+Spatially grounded,None,Private vehicle,10,100.0,10,0.0,0.0

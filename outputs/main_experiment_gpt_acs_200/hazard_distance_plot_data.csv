@@ -1,0 +1,10 @@
+condition_label,group,n,evacuate_now_rate,high_urgency_rate,hazard_keyword_mention_rate,attribute,decision_changed_rate,destination_changed_rate
+Baseline,Near,67,100.0,100.0,76.1,Hazard distance,,
+Baseline,Medium,66,100.0,100.0,74.2,Hazard distance,,
+Baseline,Far,67,100.0,100.0,73.1,Hazard distance,,
+Spatially grounded,Near,66,100.0,98.5,100.0,Hazard distance,,
+Spatially grounded,Medium,67,100.0,100.0,100.0,Hazard distance,,
+Spatially grounded,Far,67,97.0,97.0,100.0,Hazard distance,,
+Paired change,Near,67,,,,Hazard distance,0.0,97.0
+Paired change,Medium,66,,,,Hazard distance,0.0,95.5
+Paired change,Far,67,,,,Hazard distance,3.0,95.5

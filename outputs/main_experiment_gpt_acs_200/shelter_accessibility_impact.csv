@@ -1,0 +1,13 @@
+condition_label,group,n,public_shelter_selected_rate,spatial_inconsistency_rate,nearby_shelter_inconsistency_rate,attribute
+Baseline,Near,67,3.0,50.7,0.0,Shelter distance
+Baseline,Medium,66,4.5,37.9,0.0,Shelter distance
+Baseline,Far,67,3.0,38.8,0.0,Shelter distance
+Spatially grounded,Near,66,100.0,50.0,0.0,Shelter distance
+Spatially grounded,Medium,67,100.0,41.8,0.0,Shelter distance
+Spatially grounded,Far,67,98.5,41.8,17.9,Shelter distance
+Baseline,Short,67,3.0,50.7,0.0,Road travel time
+Baseline,Medium,66,4.5,37.9,0.0,Road travel time
+Baseline,Long,67,3.0,38.8,0.0,Road travel time
+Spatially grounded,Short,66,100.0,50.0,0.0,Road travel time
+Spatially grounded,Medium,67,100.0,41.8,0.0,Road travel time
+Spatially grounded,Long,67,98.5,41.8,17.9,Road travel time

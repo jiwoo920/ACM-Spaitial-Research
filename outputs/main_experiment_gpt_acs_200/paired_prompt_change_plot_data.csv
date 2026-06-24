@@ -1,0 +1,6 @@
+subgroup,n_pairs,change_metric,rate
+All personas,200,decision changed,1.0
+All personas,200,mode changed,3.5
+All personas,200,destination changed,96.0
+All personas,200,urgency changed,1.5
+All personas,200,reasoning spatial keyword mention changed,0.5

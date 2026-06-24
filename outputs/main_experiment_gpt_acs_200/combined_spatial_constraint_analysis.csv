@@ -1,0 +1,9 @@
+subgroup,condition_label,n,violation_spatial_inconsistency_rate,soft_feasibility_issue_rate,mode_feasibility_rate,public_transit_selected_rate,public_shelter_selected_rate,mean_feasibility_score
+No vehicle + limited/no transit,Baseline,8,100.0,100.0,0.0,100.0,0.0,0.75
+No vehicle + limited/no transit,Spatially grounded,8,87.5,25.0,75.0,25.0,100.0,0.875
+No vehicle + long shelter travel time,Baseline,28,92.9,0.0,100.0,100.0,7.1,0.907
+No vehicle + long shelter travel time,Spatially grounded,28,100.0,0.0,100.0,100.0,100.0,0.896
+High wildfire risk + limited/no transit,Baseline,20,10.0,10.0,90.0,10.0,0.0,0.975
+High wildfire risk + limited/no transit,Spatially grounded,20,10.0,0.0,100.0,0.0,100.0,0.99
+Near hazard + mobility constrained,Baseline,42,76.2,4.8,95.2,78.6,4.8,0.917
+Near hazard + mobility constrained,Spatially grounded,42,81.0,0.0,100.0,76.2,100.0,0.917
