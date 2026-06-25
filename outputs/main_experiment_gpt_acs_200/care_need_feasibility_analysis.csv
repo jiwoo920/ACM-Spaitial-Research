@@ -1,0 +1,13 @@
+vulnerability_type,need_status,condition,n,high_urgency_rate,soft_feasibility_issue_rate,violation_spatial_inconsistency_rate,mode_feasibility_rate,exploratory_note,Private vehicle_count,Private vehicle_rate,Public transit_count,Public transit_rate,Ride with family/friend_count,Ride with family/friend_rate,Emergency transport_count,Emergency transport_rate,Walk_count,Walk_rate,Mixed/other_count,Mixed/other_rate,No transportation_count,No transportation_rate
+Medical/medication need,Yes,Baseline,7,100.0,0.0,42.9,100.0,small subgroup; interpret as exploratory,4,57.1,3,42.9,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Medical/medication need,Yes,Spatially grounded,7,100.0,0.0,42.9,100.0,small subgroup; interpret as exploratory,4,57.1,3,42.9,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Medical/medication need,No,Baseline,193,100.0,4.1,42.5,95.9,,106,54.9,86,44.6,1,0.5,0,0.0,0,0.0,0,0.0,0,0.0
+Medical/medication need,No,Spatially grounded,193,98.4,1.0,44.6,99.0,,106,54.9,81,42.0,4,2.1,0,0.0,2,1.0,0,0.0,0,0.0
+Caregiving responsibility,Yes,Baseline,10,100.0,0.0,50.0,100.0,small subgroup; interpret as exploratory,5,50.0,5,50.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Caregiving responsibility,Yes,Spatially grounded,10,100.0,0.0,50.0,100.0,small subgroup; interpret as exploratory,5,50.0,5,50.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Caregiving responsibility,No,Baseline,190,100.0,4.2,42.1,95.8,,105,55.3,84,44.2,1,0.5,0,0.0,0,0.0,0,0.0,0,0.0
+Caregiving responsibility,No,Spatially grounded,190,98.4,1.1,44.2,98.9,,105,55.3,79,41.6,4,2.1,0,0.0,2,1.1,0,0.0,0,0.0
+Mobility constraint,Yes,Baseline,98,100.0,8.2,86.7,91.8,,8,8.2,89,90.8,1,1.0,0,0.0,0,0.0,0,0.0,0,0.0
+Mobility constraint,Yes,Spatially grounded,98,98.0,2.0,90.8,98.0,,8,8.2,84,85.7,4,4.1,0,0.0,2,2.0,0,0.0,0,0.0
+Mobility constraint,No,Baseline,102,100.0,0.0,0.0,100.0,,102,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Mobility constraint,No,Spatially grounded,102,99.0,0.0,0.0,100.0,,102,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0

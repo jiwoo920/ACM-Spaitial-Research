@@ -1,0 +1,5 @@
+condition,wildfire_risk_level,n,evacuate_now_rate,high_urgency_rate,hazard_fire_reasoning_keyword_rate
+Baseline,High,120,100.0,100.0,100.0
+Baseline,Moderate,80,100.0,100.0,100.0
+Spatially grounded,High,120,100.0,99.2,100.0
+Spatially grounded,Moderate,80,97.5,97.5,100.0

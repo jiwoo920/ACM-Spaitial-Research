@@ -1,0 +1,5 @@
+rank,analysis,strongest_contrast,key_result,recommended_src_use,caution
+1,Combined constraints with safe control,No vehicle + limited/no transit / Baseline vs Safe control,Highest constrained risk 100.0% (n = 8); safe control maximum 0.0%.,Strongest new figure candidate if replacing/augmenting the transit figure.,Triple-constraint subgroup is exploratory if selected.
+2,General vs complex vulnerable household,General household vs care/mobility need + long shelter travel time,Highest complex/general cell risk 80.0% (n = 35).,Good secondary table/prose candidate.,Interpret as exploratory if cell n < 30.
+3,No-vehicle single vs no-vehicle large household,No-vehicle single-person vs no-vehicle large household,Highest cell risk 100.0% (n = 15).,"Useful detail, but less broad than combined-constraint figure.",Large no-vehicle household cells are small.
+4,Wildfire risk decision check,High vs moderate wildfire risk,Evacuate-now rate minimum 97.5%; decision outcome has little variation.,Discussion only; not a main figure.,"Reasoning salience, not decision effect."

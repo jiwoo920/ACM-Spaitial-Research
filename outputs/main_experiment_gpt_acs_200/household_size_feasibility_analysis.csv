@@ -1,0 +1,9 @@
+scope,household_size_group,condition,n,public_transit_rate,ride_family_friend_rate,soft_feasibility_issue_rate,violation_spatial_inconsistency_rate,mode_feasibility_rate,exploratory_note,Private vehicle_count,Private vehicle_rate,Public transit_count,Public transit_rate,Ride with family/friend_count,Ride with family/friend_rate,Emergency transport_count,Emergency transport_rate,Walk_count,Walk_rate,Mixed/other_count,Mixed/other_rate,No transportation_count,No transportation_rate
+All households,Large household (4+),Baseline,48,29.2,2.1,4.2,31.2,95.8,,33,68.8,14,29.2,1,2.1,0,0.0,0,0.0,0,0.0,0,0.0
+All households,Single-person,Baseline,56,60.7,0.0,1.8,55.4,98.2,,22,39.3,34,60.7,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+All households,Large household (4+),Spatially grounded,48,29.2,2.1,2.1,29.2,97.9,,33,68.8,14,29.2,1,2.1,0,0.0,0,0.0,0,0.0,0,0.0
+All households,Single-person,Spatially grounded,56,60.7,0.0,1.8,60.7,98.2,,22,39.3,34,60.7,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+No-vehicle households,Large household (4+),Baseline,15,93.3,6.7,13.3,100.0,86.7,small subgroup; interpret as exploratory,0,0.0,14,93.3,1,6.7,0,0.0,0,0.0,0,0.0,0,0.0
+No-vehicle households,Single-person,Baseline,34,100.0,0.0,2.9,91.2,97.1,,0,0.0,34,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+No-vehicle households,Large household (4+),Spatially grounded,15,93.3,6.7,6.7,93.3,93.3,small subgroup; interpret as exploratory,0,0.0,14,93.3,1,6.7,0,0.0,0,0.0,0,0.0,0,0.0
+No-vehicle households,Single-person,Spatially grounded,34,100.0,0.0,2.9,100.0,97.1,,0,0.0,34,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0

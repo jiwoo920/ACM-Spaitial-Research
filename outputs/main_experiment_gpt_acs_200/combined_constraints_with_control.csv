@@ -1,0 +1,11 @@
+condition,constraint_group,n,violation_spatial_inconsistency_rate,soft_feasibility_issue_rate,mode_feasibility_rate,public_transit_rate,ride_family_friend_rate,private_vehicle_rate,public_shelter_rate,exploratory_note,Private vehicle_count,Private vehicle_rate,Public transit_count,Public transit_rate,Ride with family/friend_count,Ride with family/friend_rate,Emergency transport_count,Emergency transport_rate,Walk_count,Walk_rate,Mixed/other_count,Mixed/other_rate,No transportation_count,No transportation_rate
+Baseline,Safe control,39,0.0,0.0,100.0,0.0,0.0,100.0,0.0,,39,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,Safe control,39,0.0,0.0,100.0,0.0,0.0,100.0,100.0,,39,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Baseline,No vehicle + limited/no transit,8,100.0,100.0,0.0,100.0,0.0,0.0,0.0,small subgroup; interpret as exploratory,0,0.0,8,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,No vehicle + limited/no transit,8,87.5,25.0,75.0,25.0,50.0,0.0,100.0,small subgroup; interpret as exploratory,0,0.0,2,25.0,4,50.0,0,0.0,2,25.0,0,0.0,0,0.0
+Baseline,No vehicle + long shelter travel time,28,92.9,0.0,100.0,100.0,0.0,0.0,7.1,small subgroup; interpret as exploratory,0,0.0,28,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,No vehicle + long shelter travel time,28,100.0,0.0,100.0,100.0,0.0,0.0,100.0,small subgroup; interpret as exploratory,0,0.0,28,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Baseline,Care/mobility need + long shelter travel time,35,74.3,0.0,100.0,80.0,0.0,20.0,5.7,,7,20.0,28,80.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,Care/mobility need + long shelter travel time,35,80.0,0.0,100.0,80.0,0.0,20.0,97.1,,7,20.0,28,80.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Baseline,No vehicle + limited/no transit + large household,2,100.0,100.0,0.0,100.0,0.0,0.0,0.0,small subgroup; interpret as exploratory,0,0.0,2,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,No vehicle + limited/no transit + large household,2,50.0,50.0,50.0,50.0,50.0,0.0,100.0,small subgroup; interpret as exploratory,0,0.0,1,50.0,1,50.0,0,0.0,0,0.0,0,0.0,0,0.0

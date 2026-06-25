@@ -1,0 +1,5 @@
+condition,household_size_group,n,violation_spatial_inconsistency_rate,soft_feasibility_issue_rate,mode_feasibility_rate,public_transit_rate,ride_family_friend_rate,private_vehicle_rate,public_shelter_rate,exploratory_note,Private vehicle_count,Private vehicle_rate,Public transit_count,Public transit_rate,Ride with family/friend_count,Ride with family/friend_rate,Emergency transport_count,Emergency transport_rate,Walk_count,Walk_rate,Mixed/other_count,Mixed/other_rate,No transportation_count,No transportation_rate
+Baseline,Large household (4+),15,100.0,13.3,86.7,93.3,6.7,0.0,0.0,small subgroup; interpret as exploratory,0,0.0,14,93.3,1,6.7,0,0.0,0,0.0,0,0.0,0,0.0
+Baseline,Single-person,34,91.2,2.9,97.1,100.0,0.0,0.0,11.8,,0,0.0,34,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,Large household (4+),15,93.3,6.7,93.3,93.3,6.7,0.0,100.0,small subgroup; interpret as exploratory,0,0.0,14,93.3,1,6.7,0,0.0,0,0.0,0,0.0,0,0.0
+Spatially grounded,Single-person,34,100.0,2.9,97.1,100.0,0.0,0.0,100.0,,0,0.0,34,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
