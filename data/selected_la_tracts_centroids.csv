@@ -1,0 +1,21 @@
+GEOID,census_tract_id,neighborhood_label,centroid_lat,centroid_lon,geometry_source_note,geometry_source_path
+06037206202,6037206202,Los Angeles County tract 206202,34.04673661586778,-118.24033198338384,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037206301,6037206301,Los Angeles County tract 206301,34.04366778700015,-118.24763484671305,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037206302,6037206302,Los Angeles County tract 206302,34.04270075012147,-118.24565116824078,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037206303,6037206303,Los Angeles County tract 206303,34.04015120782575,-118.24159242770781,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037207304,6037207304,Los Angeles County tract 207304,34.046305825225474,-118.25150816695867,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037207307,6037207307,Los Angeles County tract 207307,34.04600605888561,-118.24928108939919,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037207502,6037207502,Los Angeles County tract 207502,34.05271211619957,-118.25309695376028,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037208902,6037208902,Los Angeles County tract 208902,34.05645127193567,-118.27238486428459,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037208904,6037208904,Los Angeles County tract 208904,34.059572753474896,-118.2701044096168,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037209103,6037209103,Los Angeles County tract 209103,34.05711471683897,-118.26404197078136,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037209105,6037209105,Los Angeles County tract 209105,34.05765338033889,-118.26776176014995,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037209401,6037209401,Los Angeles County tract 209401,34.05672616719275,-118.28153742254864,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037209402,6037209402,Los Angeles County tract 209402,34.05466697370459,-118.27723393316046,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037209403,6037209403,Los Angeles County tract 209403,34.05313752820837,-118.27385640286873,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037222700,6037222700,Los Angeles County tract 222700,34.02093452054566,-118.28567246422377,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037224702,6037224702,Los Angeles County tract 224702,34.02486451657633,-118.27961584045262,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037242600,6037242600,Los Angeles County tract 242600,33.9323806990364,-118.25025412363526,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037265304,6037265304,Los Angeles County tract 265304,34.067759533555325,-118.45117343452888,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037575803,6037575803,Los Angeles County tract 575803,33.778970552148614,-118.19372560230082,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson
+06037980014,6037980014,Los Angeles County tract 980014,33.782562851738454,-118.23836782696706,County of Los Angeles Open Data: 2020 Census Tracts,/Users/hanna/Downloads/2020_Census_Tracts.geojson

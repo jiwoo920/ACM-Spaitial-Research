@@ -1,0 +1,4439 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "requested_source": "County of Los Angeles Open Data census category / 2020 Census Tracts",
+    "used_geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+    "used_geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson",
+    "caution": "Centroids are tract-level spatial proxies, not household addresses."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.23805118666507,
+              34.05107485593154
+            ],
+            [
+              -118.23971018627854,
+              34.052455856261304
+            ],
+            [
+              -118.23987918648966,
+              34.051910855981006
+            ],
+            [
+              -118.24012718647077,
+              34.0514048563651
+            ],
+            [
+              -118.2401841868189,
+              34.051288855852015
+            ],
+            [
+              -118.24028318652945,
+              34.051087855752066
+            ],
+            [
+              -118.2408681868628,
+              34.05040985597626
+            ],
+            [
+              -118.24150618644877,
+              34.049656855502384
+            ],
+            [
+              -118.24180718644917,
+              34.04935085542155
+            ],
+            [
+              -118.24200318697716,
+              34.0487568558924
+            ],
+            [
+              -118.24209218709225,
+              34.04848885553488
+            ],
+            [
+              -118.24226018684321,
+              34.0480388553914
+            ],
+            [
+              -118.24237418626727,
+              34.04772185521631
+            ],
+            [
+              -118.24251618673227,
+              34.04733085523479
+            ],
+            [
+              -118.24266618632173,
+              34.04691785521405
+            ],
+            [
+              -118.24272518623019,
+              34.04668885536498
+            ],
+            [
+              -118.24283618627332,
+              34.046259855646134
+            ],
+            [
+              -118.24290318614723,
+              34.04607285541953
+            ],
+            [
+              -118.24301418669053,
+              34.045847855488205
+            ],
+            [
+              -118.24345418618269,
+              34.044961855467655
+            ],
+            [
+              -118.24389718620964,
+              34.04420485489251
+            ],
+            [
+              -118.24384318678828,
+              34.0441858551272
+            ],
+            [
+              -118.24276118599848,
+              34.043512855380186
+            ],
+            [
+              -118.24199518594581,
+              34.04303585473651
+            ],
+            [
+              -118.2412281856766,
+              34.042557855070605
+            ],
+            [
+              -118.24048718555902,
+              34.042096854818055
+            ],
+            [
+              -118.23983918604351,
+              34.04169385547581
+            ],
+            [
+              -118.23976618546487,
+              34.04289985561642
+            ],
+            [
+              -118.2397131853598,
+              34.043793855304905
+            ],
+            [
+              -118.239488185326,
+              34.04365385517997
+            ],
+            [
+              -118.23812418533119,
+              34.043277855343796
+            ],
+            [
+              -118.23805618507576,
+              34.04439485555704
+            ],
+            [
+              -118.2380731859417,
+              34.045542855917375
+            ],
+            [
+              -118.23809218588089,
+              34.04690985558608
+            ],
+            [
+              -118.23809618577553,
+              34.0471668557713
+            ],
+            [
+              -118.23811418606216,
+              34.04841485559727
+            ],
+            [
+              -118.2381271857367,
+              34.04899285566152
+            ],
+            [
+              -118.23810218552872,
+              34.049663855851634
+            ],
+            [
+              -118.23807018655981,
+              34.05054285638583
+            ],
+            [
+              -118.23805118666507,
+              34.05107485593154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5579,
+        "CT20": "206202",
+        "LABEL": "2062.02",
+        "ShapeSTArea": 4067555.009259893,
+        "ShapeSTLength": 9661.221437063721,
+        "census_tract_id": 6037206202,
+        "neighborhood_label": "Los Angeles County tract 206202",
+        "median_household_income": 22668,
+        "income_category": "Low",
+        "percent_no_vehicle": 62.9,
+        "average_household_size": 1.32,
+        "percent_children": 4.1,
+        "percent_elderly": 50.7,
+        "poverty_rate": 42.2,
+        "public_transportation_proxy": 22.3,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 4.7,
+        "road_travel_time_to_shelter": 30,
+        "distance_to_hazard_zone": 3.1,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037206202",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.24499518655945,
+              34.044585855275216
+            ],
+            [
+              -118.24565318688065,
+              34.04481385499928
+            ],
+            [
+              -118.24579718666423,
+              34.04490685496749
+            ],
+            [
+              -118.24658118681214,
+              34.04541785465496
+            ],
+            [
+              -118.24758218749349,
+              34.04606885479484
+            ],
+            [
+              -118.24854818781631,
+              34.045034854920736
+            ],
+            [
+              -118.24900918796897,
+              34.04459985462671
+            ],
+            [
+              -118.2504241880021,
+              34.0432648550508
+            ],
+            [
+              -118.24924618698276,
+              34.04243885417684
+            ],
+            [
+              -118.24854018708498,
+              34.04194385415866
+            ],
+            [
+              -118.24748618675821,
+              34.04120485441946
+            ],
+            [
+              -118.24739718684395,
+              34.041142854700766
+            ],
+            [
+              -118.24704418713085,
+              34.04167285463921
+            ],
+            [
+              -118.24655518726058,
+              34.04240885497247
+            ],
+            [
+              -118.24645018725478,
+              34.042566855038025
+            ],
+            [
+              -118.24617418737921,
+              34.04286085511348
+            ],
+            [
+              -118.24585218666864,
+              34.043242854578814
+            ],
+            [
+              -118.24499518655945,
+              34.044585855275216
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5580,
+        "CT20": "206301",
+        "LABEL": "2063.01",
+        "ShapeSTArea": 1457910.0712079385,
+        "ShapeSTLength": 4943.525817232141,
+        "census_tract_id": 6037206301,
+        "neighborhood_label": "Los Angeles County tract 206301",
+        "median_household_income": 13831,
+        "income_category": "Low",
+        "percent_no_vehicle": 82.6,
+        "average_household_size": 1.03,
+        "percent_children": 0.8,
+        "percent_elderly": 22.0,
+        "poverty_rate": 74.0,
+        "public_transportation_proxy": 37.5,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 3.1,
+        "road_travel_time_to_shelter": 20,
+        "distance_to_hazard_zone": 1.9,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037206301",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.24389718620964,
+              34.04420485489251
+            ],
+            [
+              -118.24499518655945,
+              34.044585855275216
+            ],
+            [
+              -118.24585218666864,
+              34.043242854578814
+            ],
+            [
+              -118.24617418737921,
+              34.04286085511348
+            ],
+            [
+              -118.24645018725478,
+              34.042566855038025
+            ],
+            [
+              -118.24655518726058,
+              34.04240885497247
+            ],
+            [
+              -118.24704418713085,
+              34.04167285463921
+            ],
+            [
+              -118.24739718684395,
+              34.041142854700766
+            ],
+            [
+              -118.24677718657846,
+              34.04070885412639
+            ],
+            [
+              -118.24549918676448,
+              34.041926854536094
+            ],
+            [
+              -118.24525218662752,
+              34.042264854885026
+            ],
+            [
+              -118.24456018706454,
+              34.04322185453776
+            ],
+            [
+              -118.24389718620964,
+              34.04420485489251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5581,
+        "CT20": "206302",
+        "LABEL": "2063.02",
+        "ShapeSTArea": 499680.05187832954,
+        "ShapeSTLength": 3606.4278050426933,
+        "census_tract_id": 6037206302,
+        "neighborhood_label": "Los Angeles County tract 206302",
+        "median_household_income": 7000,
+        "income_category": "Low",
+        "percent_no_vehicle": 85.0,
+        "average_household_size": 1.11,
+        "percent_children": 0.0,
+        "percent_elderly": 10.2,
+        "poverty_rate": 67.5,
+        "public_transportation_proxy": 33.8,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 3.9,
+        "road_travel_time_to_shelter": 25,
+        "distance_to_hazard_zone": 2.5,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037206302",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.23812418533119,
+              34.043277855343796
+            ],
+            [
+              -118.239488185326,
+              34.04365385517997
+            ],
+            [
+              -118.2397131853598,
+              34.043793855304905
+            ],
+            [
+              -118.23976618546487,
+              34.04289985561642
+            ],
+            [
+              -118.23983918604351,
+              34.04169385547581
+            ],
+            [
+              -118.24048718555902,
+              34.042096854818055
+            ],
+            [
+              -118.2412281856766,
+              34.042557855070605
+            ],
+            [
+              -118.24199518594581,
+              34.04303585473651
+            ],
+            [
+              -118.24276118599848,
+              34.043512855380186
+            ],
+            [
+              -118.24384318678828,
+              34.0441858551272
+            ],
+            [
+              -118.24389718620964,
+              34.04420485489251
+            ],
+            [
+              -118.24456018706454,
+              34.04322185453776
+            ],
+            [
+              -118.24525218662752,
+              34.042264854885026
+            ],
+            [
+              -118.24549918676448,
+              34.041926854536094
+            ],
+            [
+              -118.24677718657846,
+              34.04070885412639
+            ],
+            [
+              -118.24593118609809,
+              34.040114854886475
+            ],
+            [
+              -118.24585918697029,
+              34.04006485483335
+            ],
+            [
+              -118.2451601867145,
+              34.039574854180984
+            ],
+            [
+              -118.24439018601436,
+              34.039034854680004
+            ],
+            [
+              -118.24389818596147,
+              34.038688854439705
+            ],
+            [
+              -118.24368418658608,
+              34.0385388546231
+            ],
+            [
+              -118.2431831856339,
+              34.03818685465143
+            ],
+            [
+              -118.24297618599134,
+              34.03804185469875
+            ],
+            [
+              -118.24246918549306,
+              34.03768585475778
+            ],
+            [
+              -118.2423241856496,
+              34.03758485452681
+            ],
+            [
+              -118.24179918520032,
+              34.037216854303146
+            ],
+            [
+              -118.24119018581548,
+              34.03678885427946
+            ],
+            [
+              -118.24059118588123,
+              34.036368853989735
+            ],
+            [
+              -118.24045118485728,
+              34.036270854475205
+            ],
+            [
+              -118.23976718481138,
+              34.03579085401794
+            ],
+            [
+              -118.23901318517858,
+              34.03526185406492
+            ],
+            [
+              -118.23886318520879,
+              34.03515585431552
+            ],
+            [
+              -118.23862318519662,
+              34.03498785472633
+            ],
+            [
+              -118.23855518507527,
+              34.036121854901765
+            ],
+            [
+              -118.23852418492156,
+              34.0366388547725
+            ],
+            [
+              -118.23850718523242,
+              34.03691685504394
+            ],
+            [
+              -118.23847718560779,
+              34.03741085493658
+            ],
+            [
+              -118.23843318524473,
+              34.03814185485198
+            ],
+            [
+              -118.23837418538719,
+              34.03911685444265
+            ],
+            [
+              -118.23832718546359,
+              34.03988885464408
+            ],
+            [
+              -118.23823518537574,
+              34.041424855469586
+            ],
+            [
+              -118.23812418533119,
+              34.043277855343796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5582,
+        "CT20": "206303",
+        "LABEL": "2063.03",
+        "ShapeSTArea": 4679996.822340145,
+        "ShapeSTLength": 10618.507615195522,
+        "census_tract_id": 6037206303,
+        "neighborhood_label": "Los Angeles County tract 206303",
+        "median_household_income": 11542,
+        "income_category": "Low",
+        "percent_no_vehicle": 88.2,
+        "average_household_size": 1.08,
+        "percent_children": 1.4,
+        "percent_elderly": 16.1,
+        "poverty_rate": 74.3,
+        "public_transportation_proxy": 53.0,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 2.3,
+        "road_travel_time_to_shelter": 15,
+        "distance_to_hazard_zone": 1.3,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037206303",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.24963818730126,
+              34.04739485538222
+            ],
+            [
+              -118.2501741883369,
+              34.04773685489548
+            ],
+            [
+              -118.25071318820598,
+              34.04808385471888
+            ],
+            [
+              -118.25204418775742,
+              34.04665285498531
+            ],
+            [
+              -118.25337918775023,
+              34.04521785464361
+            ],
+            [
+              -118.25288418815676,
+              34.04489885459763
+            ],
+            [
+              -118.252309187775,
+              34.04452885429668
+            ],
+            [
+              -118.25202418816056,
+              34.04483185502534
+            ],
+            [
+              -118.25175718776494,
+              34.04511885506895
+            ],
+            [
+              -118.25140518774387,
+              34.04549785504032
+            ],
+            [
+              -118.25097518841775,
+              34.0459608547972
+            ],
+            [
+              -118.24963818730126,
+              34.04739485538222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5587,
+        "CT20": "207304",
+        "LABEL": "2073.04",
+        "ShapeSTArea": 541608.1563189356,
+        "ShapeSTLength": 3459.9798370309386,
+        "census_tract_id": 6037207304,
+        "neighborhood_label": "Los Angeles County tract 207304",
+        "median_household_income": 13735,
+        "income_category": "Low",
+        "percent_no_vehicle": 68.9,
+        "average_household_size": 1.42,
+        "percent_children": 10.4,
+        "percent_elderly": 12.8,
+        "poverty_rate": 43.8,
+        "public_transportation_proxy": 22.6,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 2.3,
+        "road_travel_time_to_shelter": 15,
+        "distance_to_hazard_zone": 1.9,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037207304",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.24758218749349,
+              34.04606885479484
+            ],
+            [
+              -118.24804818759172,
+              34.04637285534804
+            ],
+            [
+              -118.24854518747702,
+              34.046695854964995
+            ],
+            [
+              -118.2490901876748,
+              34.047043854842734
+            ],
+            [
+              -118.24963818730126,
+              34.04739485538222
+            ],
+            [
+              -118.25097518841775,
+              34.0459608547972
+            ],
+            [
+              -118.25044218752885,
+              34.04561585507742
+            ],
+            [
+              -118.24993718774988,
+              34.04527985453945
+            ],
+            [
+              -118.24900918796897,
+              34.04459985462671
+            ],
+            [
+              -118.24854818781631,
+              34.045034854920736
+            ],
+            [
+              -118.24758218749349,
+              34.04606885479484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5590,
+        "CT20": "207307",
+        "LABEL": "2073.07",
+        "ShapeSTArea": 525932.6473524069,
+        "ShapeSTLength": 2911.191792738821,
+        "census_tract_id": 6037207307,
+        "neighborhood_label": "Los Angeles County tract 207307",
+        "median_household_income": 0,
+        "income_category": "Low",
+        "percent_no_vehicle": 64.8,
+        "average_household_size": 1.21,
+        "percent_children": 2.3,
+        "percent_elderly": 5.8,
+        "poverty_rate": 44.8,
+        "public_transportation_proxy": 11.0,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 3.9,
+        "road_travel_time_to_shelter": 25,
+        "distance_to_hazard_zone": 3.1,
+        "transit_access": "Moderate",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037207307",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.251093188821,
+              34.05524585551769
+            ],
+            [
+              -118.25139918864524,
+              34.05527285622629
+            ],
+            [
+              -118.25195718829602,
+              34.0551928554403
+            ],
+            [
+              -118.25240318887859,
+              34.05512885577132
+            ],
+            [
+              -118.25260318847319,
+              34.05508985571704
+            ],
+            [
+              -118.25271018852663,
+              34.05506085591701
+            ],
+            [
+              -118.25291818943815,
+              34.0549718559532
+            ],
+            [
+              -118.25310918898492,
+              34.054858855564206
+            ],
+            [
+              -118.25341318859326,
+              34.0544388558937
+            ],
+            [
+              -118.25448218971717,
+              34.05512585589762
+            ],
+            [
+              -118.25509818918756,
+              34.05555085574875
+            ],
+            [
+              -118.25542418962762,
+              34.055775855820684
+            ],
+            [
+              -118.25590918947971,
+              34.05609185585771
+            ],
+            [
+              -118.25598818933173,
+              34.056004855724616
+            ],
+            [
+              -118.25637618908915,
+              34.05563385526499
+            ],
+            [
+              -118.25670918952474,
+              34.055259855691816
+            ],
+            [
+              -118.25688618962685,
+              34.05506085594476
+            ],
+            [
+              -118.25706818985014,
+              34.05484885514336
+            ],
+            [
+              -118.25708718974991,
+              34.05482685522056
+            ],
+            [
+              -118.25711118936256,
+              34.05479885578401
+            ],
+            [
+              -118.25719918929933,
+              34.05469585516943
+            ],
+            [
+              -118.25818418952738,
+              34.053506855252856
+            ],
+            [
+              -118.2583411897081,
+              34.05332485572007
+            ],
+            [
+              -118.25855919018295,
+              34.053087855553244
+            ],
+            [
+              -118.25882218968545,
+              34.05282085479725
+            ],
+            [
+              -118.25855419012053,
+              34.05279085527833
+            ],
+            [
+              -118.25810319017552,
+              34.052739854909426
+            ],
+            [
+              -118.25785018966323,
+              34.05271185562412
+            ],
+            [
+              -118.25772018986885,
+              34.05262785536428
+            ],
+            [
+              -118.25717018984565,
+              34.05226985547819
+            ],
+            [
+              -118.25609318955016,
+              34.05156985481986
+            ],
+            [
+              -118.254941189082,
+              34.050824855245146
+            ],
+            [
+              -118.2539441882425,
+              34.050180855399724
+            ],
+            [
+              -118.25285618798044,
+              34.04947685540954
+            ],
+            [
+              -118.25178818868345,
+              34.04878085554244
+            ],
+            [
+              -118.2504411882256,
+              34.050225855819214
+            ],
+            [
+              -118.24910118789703,
+              34.051662855307704
+            ],
+            [
+              -118.24843818784476,
+              34.052373855983426
+            ],
+            [
+              -118.24776618787092,
+              34.05309585572823
+            ],
+            [
+              -118.24847818761177,
+              34.05355685618923
+            ],
+            [
+              -118.24883018790219,
+              34.05378485594093
+            ],
+            [
+              -118.24990018790402,
+              34.054476855450105
+            ],
+            [
+              -118.25096218866219,
+              34.05516285616663
+            ],
+            [
+              -118.251093188821,
+              34.05524585551769
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5594,
+        "CT20": "207502",
+        "LABEL": "2075.02",
+        "ShapeSTArea": 4503362.953657488,
+        "ShapeSTLength": 9155.677193475593,
+        "census_tract_id": 6037207502,
+        "neighborhood_label": "Los Angeles County tract 207502",
+        "median_household_income": 20202,
+        "income_category": "Low",
+        "percent_no_vehicle": 43.6,
+        "average_household_size": 1.41,
+        "percent_children": 4.6,
+        "percent_elderly": 41.8,
+        "poverty_rate": 40.5,
+        "public_transportation_proxy": 14.0,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 4.7,
+        "road_travel_time_to_shelter": 30,
+        "distance_to_hazard_zone": 0.7,
+        "transit_access": "Moderate",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037207502",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.27243419205453,
+              34.05845685514272
+            ],
+            [
+              -118.27255619234427,
+              34.058510854742934
+            ],
+            [
+              -118.27298319300958,
+              34.05870185512878
+            ],
+            [
+              -118.27364719277635,
+              34.05899785497373
+            ],
+            [
+              -118.2746951928309,
+              34.0573908544252
+            ],
+            [
+              -118.27564419308705,
+              34.05592785416957
+            ],
+            [
+              -118.27455519216768,
+              34.055435855056196
+            ],
+            [
+              -118.27346719192352,
+              34.05494485451341
+            ],
+            [
+              -118.27289319256764,
+              34.05468585484298
+            ],
+            [
+              -118.27232119189624,
+              34.054426854259354
+            ],
+            [
+              -118.27115319171132,
+              34.05389885493078
+            ],
+            [
+              -118.27066419227124,
+              34.054646854744746
+            ],
+            [
+              -118.2704201918665,
+              34.05501985434843
+            ],
+            [
+              -118.27015119162064,
+              34.05538485511114
+            ],
+            [
+              -118.26963919133564,
+              34.0561668547866
+            ],
+            [
+              -118.26910719176121,
+              34.056980855228595
+            ],
+            [
+              -118.26940019227342,
+              34.05710385505333
+            ],
+            [
+              -118.26987419180305,
+              34.05731485485701
+            ],
+            [
+              -118.27114719184648,
+              34.05788285463923
+            ],
+            [
+              -118.27146419187814,
+              34.058023855057655
+            ],
+            [
+              -118.27243419205453,
+              34.05845685514272
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5613,
+        "CT20": "208902",
+        "LABEL": "2089.02",
+        "ShapeSTArea": 1981074.2796514425,
+        "ShapeSTLength": 5658.6951039161295,
+        "census_tract_id": 6037208902,
+        "neighborhood_label": "Los Angeles County tract 208902",
+        "median_household_income": 37759,
+        "income_category": "Low",
+        "percent_no_vehicle": 53.6,
+        "average_household_size": 3.44,
+        "percent_children": 29.6,
+        "percent_elderly": 4.7,
+        "poverty_rate": 44.5,
+        "public_transportation_proxy": 43.6,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 1.5,
+        "road_travel_time_to_shelter": 10,
+        "distance_to_hazard_zone": 1.9,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037208902",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.267944192169,
+              34.06087585546118
+            ],
+            [
+              -118.26844719206419,
+              34.06108285600834
+            ],
+            [
+              -118.2687631922161,
+              34.06122485565737
+            ],
+            [
+              -118.26892719199424,
+              34.06129885518115
+            ],
+            [
+              -118.27021319267935,
+              34.061878855296
+            ],
+            [
+              -118.27076119264643,
+              34.061034855198585
+            ],
+            [
+              -118.2713101922076,
+              34.06018885528867
+            ],
+            [
+              -118.27185919258903,
+              34.05934285559363
+            ],
+            [
+              -118.27243419205453,
+              34.05845685514272
+            ],
+            [
+              -118.27146419187814,
+              34.058023855057655
+            ],
+            [
+              -118.27114719184648,
+              34.05788285463923
+            ],
+            [
+              -118.26987419180305,
+              34.05731485485701
+            ],
+            [
+              -118.26907519155804,
+              34.05855185568933
+            ],
+            [
+              -118.26824919193594,
+              34.05983385524314
+            ],
+            [
+              -118.2684101919681,
+              34.059970855689
+            ],
+            [
+              -118.26848919150402,
+              34.06003685516585
+            ],
+            [
+              -118.2681021919521,
+              34.06063085548569
+            ],
+            [
+              -118.267944192169,
+              34.06087585546118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5615,
+        "CT20": "208904",
+        "LABEL": "2089.04",
+        "ShapeSTArea": 1206663.4993777417,
+        "ShapeSTLength": 4564.636110119919,
+        "census_tract_id": 6037208904,
+        "neighborhood_label": "Los Angeles County tract 208904",
+        "median_household_income": 26640,
+        "income_category": "Low",
+        "percent_no_vehicle": 62.4,
+        "average_household_size": 2.55,
+        "percent_children": 27.8,
+        "percent_elderly": 16.0,
+        "poverty_rate": 57.2,
+        "public_transportation_proxy": 46.4,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 5.5,
+        "road_travel_time_to_shelter": 35,
+        "distance_to_hazard_zone": 0.7,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037208904",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.26160719021507,
+              34.05830385592577
+            ],
+            [
+              -118.26333419075357,
+              34.05899685520069
+            ],
+            [
+              -118.26347419148313,
+              34.05905385566221
+            ],
+            [
+              -118.26439819127759,
+              34.05942585533259
+            ],
+            [
+              -118.2658331908407,
+              34.05712185546766
+            ],
+            [
+              -118.26589419159404,
+              34.05701285503703
+            ],
+            [
+              -118.26594619173177,
+              34.05687985491389
+            ],
+            [
+              -118.26597819151996,
+              34.05674185565562
+            ],
+            [
+              -118.2659891917737,
+              34.05662285552151
+            ],
+            [
+              -118.26598419080403,
+              34.056422855642325
+            ],
+            [
+              -118.26599919150715,
+              34.05632885515925
+            ],
+            [
+              -118.2660321917312,
+              34.056238854785335
+            ],
+            [
+              -118.26606319125352,
+              34.0561808550354
+            ],
+            [
+              -118.26629619151652,
+              34.0558038550729
+            ],
+            [
+              -118.26565019115743,
+              34.05553385485658
+            ],
+            [
+              -118.26556019127733,
+              34.05549585494037
+            ],
+            [
+              -118.26485719097049,
+              34.05520185537099
+            ],
+            [
+              -118.26378419089758,
+              34.054752855241965
+            ],
+            [
+              -118.26344919045094,
+              34.05529385483344
+            ],
+            [
+              -118.26322319113382,
+              34.05565985517079
+            ],
+            [
+              -118.26267919110282,
+              34.05653885546138
+            ],
+            [
+              -118.26213619120985,
+              34.05741885544711
+            ],
+            [
+              -118.26160719021507,
+              34.05830385592577
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5616,
+        "CT20": "209103",
+        "LABEL": "2091.03",
+        "ShapeSTArea": 1334880.5039827472,
+        "ShapeSTLength": 4693.848495550198,
+        "census_tract_id": 6037209103,
+        "neighborhood_label": "Los Angeles County tract 209103",
+        "median_household_income": 32550,
+        "income_category": "Low",
+        "percent_no_vehicle": 46.1,
+        "average_household_size": 3.03,
+        "percent_children": 31.8,
+        "percent_elderly": 7.0,
+        "poverty_rate": 46.4,
+        "public_transportation_proxy": 40.6,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 5.5,
+        "road_travel_time_to_shelter": 35,
+        "distance_to_hazard_zone": 1.9,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037209103",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2658331908407,
+              34.05712185546766
+            ],
+            [
+              -118.26676919135349,
+              34.05800585565321
+            ],
+            [
+              -118.2668301919629,
+              34.0580878557575
+            ],
+            [
+              -118.26687319202344,
+              34.05817685542687
+            ],
+            [
+              -118.26691019200807,
+              34.05830985493043
+            ],
+            [
+              -118.26695519122947,
+              34.05848285569424
+            ],
+            [
+              -118.26700919181626,
+              34.05861985554709
+            ],
+            [
+              -118.26707919157253,
+              34.05875085546942
+            ],
+            [
+              -118.26715919123394,
+              34.05886785499698
+            ],
+            [
+              -118.26725319171851,
+              34.05897785556002
+            ],
+            [
+              -118.26743819150798,
+              34.05914385510813
+            ],
+            [
+              -118.26799319216184,
+              34.059615855522736
+            ],
+            [
+              -118.26824919193594,
+              34.05983385524314
+            ],
+            [
+              -118.26907519155804,
+              34.05855185568933
+            ],
+            [
+              -118.26987419180305,
+              34.05731485485701
+            ],
+            [
+              -118.26940019227342,
+              34.05710385505333
+            ],
+            [
+              -118.26910719176121,
+              34.056980855228595
+            ],
+            [
+              -118.26889219152432,
+              34.05689085468222
+            ],
+            [
+              -118.26806719133613,
+              34.05654585541087
+            ],
+            [
+              -118.26730819188829,
+              34.0562278549561
+            ],
+            [
+              -118.26629619151652,
+              34.0558038550729
+            ],
+            [
+              -118.26606319125352,
+              34.0561808550354
+            ],
+            [
+              -118.2660321917312,
+              34.056238854785335
+            ],
+            [
+              -118.26599919150715,
+              34.05632885515925
+            ],
+            [
+              -118.26598419080403,
+              34.056422855642325
+            ],
+            [
+              -118.2659891917737,
+              34.05662285552151
+            ],
+            [
+              -118.26597819151996,
+              34.05674185565562
+            ],
+            [
+              -118.26594619173177,
+              34.05687985491389
+            ],
+            [
+              -118.26589419159404,
+              34.05701285503703
+            ],
+            [
+              -118.2658331908407,
+              34.05712185546766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5618,
+        "CT20": "209105",
+        "LABEL": "2091.05",
+        "ShapeSTArea": 895832.0983099175,
+        "ShapeSTLength": 4013.336592936749,
+        "census_tract_id": 6037209105,
+        "neighborhood_label": "Los Angeles County tract 209105",
+        "median_household_income": 34092,
+        "income_category": "Low",
+        "percent_no_vehicle": 42.9,
+        "average_household_size": 3.15,
+        "percent_children": 39.8,
+        "percent_elderly": 8.0,
+        "poverty_rate": 49.3,
+        "public_transportation_proxy": 42.8,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 1.5,
+        "road_travel_time_to_shelter": 10,
+        "distance_to_hazard_zone": 2.5,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037209105",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.28242219394717,
+              34.058989854214545
+            ],
+            [
+              -118.28323219389634,
+              34.059355854207475
+            ],
+            [
+              -118.28332219435799,
+              34.05939585410643
+            ],
+            [
+              -118.28386619449213,
+              34.05964085431421
+            ],
+            [
+              -118.28421019444247,
+              34.059796854932046
+            ],
+            [
+              -118.28420019502315,
+              34.05874385480519
+            ],
+            [
+              -118.28422419407262,
+              34.05774685446878
+            ],
+            [
+              -118.28423719445726,
+              34.05683985376861
+            ],
+            [
+              -118.2842501941892,
+              34.055849854546366
+            ],
+            [
+              -118.28410819382216,
+              34.05578585452565
+            ],
+            [
+              -118.28302019428249,
+              34.055293854454604
+            ],
+            [
+              -118.28197619404368,
+              34.054822853950895
+            ],
+            [
+              -118.28094719349828,
+              34.054357854330895
+            ],
+            [
+              -118.2804761935372,
+              34.054144854467125
+            ],
+            [
+              -118.28038919385108,
+              34.054104854521675
+            ],
+            [
+              -118.2798961932223,
+              34.053881854118224
+            ],
+            [
+              -118.27974919389992,
+              34.05411085451998
+            ],
+            [
+              -118.27960819347105,
+              34.05433085439408
+            ],
+            [
+              -118.27893719333642,
+              34.05538285460133
+            ],
+            [
+              -118.27792919383043,
+              34.05696085455197
+            ],
+            [
+              -118.27896819343603,
+              34.05742985427141
+            ],
+            [
+              -118.27988319425926,
+              34.05784285443788
+            ],
+            [
+              -118.28053019362986,
+              34.05813585466785
+            ],
+            [
+              -118.28105419383846,
+              34.05837185445757
+            ],
+            [
+              -118.2815461938044,
+              34.05859385458709
+            ],
+            [
+              -118.28214319448844,
+              34.05886385471268
+            ],
+            [
+              -118.28242219394717,
+              34.058989854214545
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5623,
+        "CT20": "209401",
+        "LABEL": "2094.01",
+        "ShapeSTArea": 2321391.9698718986,
+        "ShapeSTLength": 6370.7127227084375,
+        "census_tract_id": 6037209401,
+        "neighborhood_label": "Los Angeles County tract 209401",
+        "median_household_income": 32361,
+        "income_category": "Low",
+        "percent_no_vehicle": 65.5,
+        "average_household_size": 2.15,
+        "percent_children": 19.3,
+        "percent_elderly": 23.3,
+        "poverty_rate": 21.6,
+        "public_transportation_proxy": 54.5,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 5.5,
+        "road_travel_time_to_shelter": 35,
+        "distance_to_hazard_zone": 1.3,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037209401",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.27682919322872,
+              34.05646285460413
+            ],
+            [
+              -118.27792919383043,
+              34.05696085455197
+            ],
+            [
+              -118.27893719333642,
+              34.05538285460133
+            ],
+            [
+              -118.27960819347105,
+              34.05433085439408
+            ],
+            [
+              -118.27974919389992,
+              34.05411085451998
+            ],
+            [
+              -118.2798961932223,
+              34.053881854118224
+            ],
+            [
+              -118.27981619388949,
+              34.05384885415202
+            ],
+            [
+              -118.27936719323644,
+              34.05364485398266
+            ],
+            [
+              -118.27933319277307,
+              34.05362985452735
+            ],
+            [
+              -118.27932019372072,
+              34.05362385425371
+            ],
+            [
+              -118.27930419316922,
+              34.05361585411283
+            ],
+            [
+              -118.27927019380904,
+              34.05360085373573
+            ],
+            [
+              -118.27917619372944,
+              34.05355785438914
+            ],
+            [
+              -118.27879219322567,
+              34.05338385441255
+            ],
+            [
+              -118.27764919262741,
+              34.05286785412865
+            ],
+            [
+              -118.27708719232537,
+              34.052612854137834
+            ],
+            [
+              -118.27656119230947,
+              34.05237585381051
+            ],
+            [
+              -118.27558319273264,
+              34.053867854753115
+            ],
+            [
+              -118.27455519216768,
+              34.055435855056196
+            ],
+            [
+              -118.27564419308705,
+              34.05592785416957
+            ],
+            [
+              -118.27682919322872,
+              34.05646285460413
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5624,
+        "CT20": "209402",
+        "LABEL": "2094.02",
+        "ShapeSTArea": 1466351.837027795,
+        "ShapeSTLength": 4849.913833690652,
+        "census_tract_id": 6037209402,
+        "neighborhood_label": "Los Angeles County tract 209402",
+        "median_household_income": 47783,
+        "income_category": "Low",
+        "percent_no_vehicle": 59.9,
+        "average_household_size": 2.94,
+        "percent_children": 25.0,
+        "percent_elderly": 8.2,
+        "poverty_rate": 29.1,
+        "public_transportation_proxy": 44.8,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 3.9,
+        "road_travel_time_to_shelter": 25,
+        "distance_to_hazard_zone": 0.7,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037209402",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.27115319171132,
+              34.05389885493078
+            ],
+            [
+              -118.27232119189624,
+              34.054426854259354
+            ],
+            [
+              -118.27289319256764,
+              34.05468585484298
+            ],
+            [
+              -118.27346719192352,
+              34.05494485451341
+            ],
+            [
+              -118.27455519216768,
+              34.055435855056196
+            ],
+            [
+              -118.27558319273264,
+              34.053867854753115
+            ],
+            [
+              -118.27656119230947,
+              34.05237585381051
+            ],
+            [
+              -118.27547319295176,
+              34.05188485434478
+            ],
+            [
+              -118.27494719236067,
+              34.05164785423011
+            ],
+            [
+              -118.27432519264592,
+              34.05136685437374
+            ],
+            [
+              -118.27315719213834,
+              34.05083885383863
+            ],
+            [
+              -118.27218019186265,
+              34.052331854302096
+            ],
+            [
+              -118.27167519147426,
+              34.05310185464295
+            ],
+            [
+              -118.27141219230275,
+              34.053502854547396
+            ],
+            [
+              -118.27115319171132,
+              34.05389885493078
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5625,
+        "CT20": "209403",
+        "LABEL": "2094.03",
+        "ShapeSTArea": 1487534.1129339985,
+        "ShapeSTLength": 4882.443510399631,
+        "census_tract_id": 6037209403,
+        "neighborhood_label": "Los Angeles County tract 209403",
+        "median_household_income": 31806,
+        "income_category": "Low",
+        "percent_no_vehicle": 56.9,
+        "average_household_size": 2.93,
+        "percent_children": 29.4,
+        "percent_elderly": 18.0,
+        "poverty_rate": 25.2,
+        "public_transportation_proxy": 39.9,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 2.3,
+        "road_travel_time_to_shelter": 15,
+        "distance_to_hazard_zone": 3.1,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037209403",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.28355819200598,
+              34.02356385040432
+            ],
+            [
+              -118.28362319106775,
+              34.02346785069482
+            ],
+            [
+              -118.28530119162934,
+              34.02420785072306
+            ],
+            [
+              -118.28537019140174,
+              34.024241850202856
+            ],
+            [
+              -118.28651619240914,
+              34.02479485042352
+            ],
+            [
+              -118.2871071919887,
+              34.02505485030134
+            ],
+            [
+              -118.28760919209269,
+              34.02527585092891
+            ],
+            [
+              -118.28776119217257,
+              34.02533285034892
+            ],
+            [
+              -118.2878551926283,
+              34.02536185024023
+            ],
+            [
+              -118.28798319221181,
+              34.02539385038872
+            ],
+            [
+              -118.28811319254825,
+              34.025418850657296
+            ],
+            [
+              -118.28822819268514,
+              34.025433850770106
+            ],
+            [
+              -118.28834519280923,
+              34.02544385062005
+            ],
+            [
+              -118.28847219298095,
+              34.02544685042427
+            ],
+            [
+              -118.29129719291235,
+              34.025446850124915
+            ],
+            [
+              -118.29155019266067,
+              34.025501850265584
+            ],
+            [
+              -118.29154919335949,
+              34.02425485027764
+            ],
+            [
+              -118.29154919262395,
+              34.023114849631654
+            ],
+            [
+              -118.29154919277208,
+              34.02207985022222
+            ],
+            [
+              -118.29154819214861,
+              34.02090985012732
+            ],
+            [
+              -118.29154819234118,
+              34.01995785017102
+            ],
+            [
+              -118.29154719233554,
+              34.018969849198704
+            ],
+            [
+              -118.2915471920582,
+              34.0183748496258
+            ],
+            [
+              -118.29154719296952,
+              34.018272849673
+            ],
+            [
+              -118.29154719284678,
+              34.018161849754286
+            ],
+            [
+              -118.29083819202425,
+              34.018138850020435
+            ],
+            [
+              -118.29012819256067,
+              34.01813684965232
+            ],
+            [
+              -118.28867619203774,
+              34.018162850008956
+            ],
+            [
+              -118.28294319096493,
+              34.01815584998689
+            ],
+            [
+              -118.28277519137586,
+              34.01816484964442
+            ],
+            [
+              -118.28273719041066,
+              34.017609849959555
+            ],
+            [
+              -118.28277519143062,
+              34.01755084961656
+            ],
+            [
+              -118.28277119070304,
+              34.01658484969229
+            ],
+            [
+              -118.28277119076128,
+              34.0165188496414
+            ],
+            [
+              -118.28276619095134,
+              34.015669849864025
+            ],
+            [
+              -118.28250719108419,
+              34.015750850158064
+            ],
+            [
+              -118.28196019090642,
+              34.01575484991376
+            ],
+            [
+              -118.2815781909944,
+              34.01575885006986
+            ],
+            [
+              -118.28122419098345,
+              34.01576184980381
+            ],
+            [
+              -118.28110219032702,
+              34.015759849496675
+            ],
+            [
+              -118.28111519077301,
+              34.015624849495886
+            ],
+            [
+              -118.28107819055859,
+              34.01562184972349
+            ],
+            [
+              -118.2809231899968,
+              34.015604849801655
+            ],
+            [
+              -118.28071518993033,
+              34.01558184975862
+            ],
+            [
+              -118.28063919003074,
+              34.0159378500926
+            ],
+            [
+              -118.28054219016259,
+              34.016309849946836
+            ],
+            [
+              -118.28043019021263,
+              34.01667885003025
+            ],
+            [
+              -118.28034119085518,
+              34.01693784971166
+            ],
+            [
+              -118.28019919034585,
+              34.01730985013061
+            ],
+            [
+              -118.2801531903091,
+              34.01741484981627
+            ],
+            [
+              -118.28013519007811,
+              34.017457850356934
+            ],
+            [
+              -118.28002319004845,
+              34.017715850200055
+            ],
+            [
+              -118.2798521902865,
+              34.018068850145525
+            ],
+            [
+              -118.27976919094816,
+              34.01822385042507
+            ],
+            [
+              -118.27965619041031,
+              34.018433850329934
+            ],
+            [
+              -118.2796211901988,
+              34.01849385064668
+            ],
+            [
+              -118.27946619075252,
+              34.01875884988156
+            ],
+            [
+              -118.27901919002525,
+              34.01946085082815
+            ],
+            [
+              -118.2781601904644,
+              34.02081085028114
+            ],
+            [
+              -118.2780031907909,
+              34.02105785052405
+            ],
+            [
+              -118.27818919056544,
+              34.021141850261266
+            ],
+            [
+              -118.27821119061127,
+              34.02115085091574
+            ],
+            [
+              -118.27871319056565,
+              34.02137585059929
+            ],
+            [
+              -118.27999019096114,
+              34.02192085050563
+            ],
+            [
+              -118.28018119113342,
+              34.02206785069217
+            ],
+            [
+              -118.28231319104498,
+              34.023012850533526
+            ],
+            [
+              -118.28355819200598,
+              34.02356385040432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5753,
+        "CT20": "222700",
+        "LABEL": "2227.00",
+        "ShapeSTArea": 8846637.474481689,
+        "ShapeSTLength": 13629.60912559972,
+        "census_tract_id": 6037222700,
+        "neighborhood_label": "Los Angeles County tract 222700",
+        "median_household_income": 51250,
+        "income_category": "Low",
+        "percent_no_vehicle": 41.2,
+        "average_household_size": 2.92,
+        "percent_children": 1.3,
+        "percent_elderly": 0.0,
+        "poverty_rate": 61.9,
+        "public_transportation_proxy": 6.2,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 2.3,
+        "road_travel_time_to_shelter": 15,
+        "distance_to_hazard_zone": 2.5,
+        "transit_access": "Limited",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037222700",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.27448819047329,
+              34.02747085108212
+            ],
+            [
+              -118.27467818999172,
+              34.0275568512901
+            ],
+            [
+              -118.27489119074104,
+              34.02765285178627
+            ],
+            [
+              -118.27601419081853,
+              34.0281588514184
+            ],
+            [
+              -118.2765351911814,
+              34.027341851491755
+            ],
+            [
+              -118.27668619061735,
+              34.027105851095335
+            ],
+            [
+              -118.27703719032702,
+              34.02655385096634
+            ],
+            [
+              -118.27733519079452,
+              34.02608585079757
+            ],
+            [
+              -118.28105619111459,
+              34.027729851223626
+            ],
+            [
+              -118.28175519115013,
+              34.02671285063288
+            ],
+            [
+              -118.28321019217292,
+              34.02735285078902
+            ],
+            [
+              -118.2833291914609,
+              34.027389850731424
+            ],
+            [
+              -118.28345219223237,
+              34.02741485081598
+            ],
+            [
+              -118.28352419174283,
+              34.02742285141191
+            ],
+            [
+              -118.28361519147559,
+              34.02742785121468
+            ],
+            [
+              -118.28396719150008,
+              34.02742785138097
+            ],
+            [
+              -118.28398119220114,
+              34.02643585082829
+            ],
+            [
+              -118.28397119215603,
+              34.02566785036706
+            ],
+            [
+              -118.28396219166336,
+              34.02551385059899
+            ],
+            [
+              -118.2839541913883,
+              34.025432850746675
+            ],
+            [
+              -118.28393719135285,
+              34.02532985039595
+            ],
+            [
+              -118.28379119168547,
+              34.02444785039187
+            ],
+            [
+              -118.28378719169272,
+              34.02432385078853
+            ],
+            [
+              -118.28380219175118,
+              34.02420085049229
+            ],
+            [
+              -118.28383519147575,
+              34.024079850742766
+            ],
+            [
+              -118.28387719150925,
+              34.02397885099057
+            ],
+            [
+              -118.28392119210963,
+              34.02389885035585
+            ],
+            [
+              -118.28400719118099,
+              34.02376185086751
+            ],
+            [
+              -118.28372319207352,
+              34.02363685084487
+            ],
+            [
+              -118.28355819200598,
+              34.02356385040432
+            ],
+            [
+              -118.28231319104498,
+              34.023012850533526
+            ],
+            [
+              -118.28018119113342,
+              34.02206785069217
+            ],
+            [
+              -118.27999019096114,
+              34.02192085050563
+            ],
+            [
+              -118.27871319056565,
+              34.02137585059929
+            ],
+            [
+              -118.27821119061127,
+              34.02115085091574
+            ],
+            [
+              -118.27818919056544,
+              34.021141850261266
+            ],
+            [
+              -118.2780031907909,
+              34.02105785052405
+            ],
+            [
+              -118.27769419020044,
+              34.021543850451344
+            ],
+            [
+              -118.27754119041515,
+              34.02180485066226
+            ],
+            [
+              -118.27741019038511,
+              34.02204985117257
+            ],
+            [
+              -118.27707719022392,
+              34.0227008511973
+            ],
+            [
+              -118.27627118996436,
+              34.024276850791516
+            ],
+            [
+              -118.27610719004811,
+              34.02458485127311
+            ],
+            [
+              -118.27595719063325,
+              34.024840850866696
+            ],
+            [
+              -118.27583119000404,
+              34.02503985123841
+            ],
+            [
+              -118.27574319053731,
+              34.0251778510465
+            ],
+            [
+              -118.27535219044992,
+              34.025794851432295
+            ],
+            [
+              -118.2749751904555,
+              34.02638985110349
+            ],
+            [
+              -118.27494119031934,
+              34.026443851724586
+            ],
+            [
+              -118.27484419029825,
+              34.02661785142197
+            ],
+            [
+              -118.2747521903221,
+              34.02679785106191
+            ],
+            [
+              -118.27466819064125,
+              34.02697985185748
+            ],
+            [
+              -118.27459219021026,
+              34.02716385112323
+            ],
+            [
+              -118.27448819047329,
+              34.02747085108212
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5763,
+        "CT20": "224702",
+        "LABEL": "2247.02",
+        "ShapeSTArea": 4257851.054887392,
+        "ShapeSTLength": 9804.975677620047,
+        "census_tract_id": 6037224702,
+        "neighborhood_label": "Los Angeles County tract 224702",
+        "median_household_income": 11270,
+        "income_category": "Low",
+        "percent_no_vehicle": 50.0,
+        "average_household_size": 2.2,
+        "percent_children": 1.1,
+        "percent_elderly": 3.5,
+        "poverty_rate": 77.8,
+        "public_transportation_proxy": 3.4,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 1.5,
+        "road_travel_time_to_shelter": 10,
+        "distance_to_hazard_zone": 1.3,
+        "transit_access": "Limited",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037224702",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.24626917717558,
+              33.92949084184619
+            ],
+            [
+              -118.24626917783692,
+              33.93032084225057
+            ],
+            [
+              -118.24627017808987,
+              33.931135842037314
+            ],
+            [
+              -118.24627917794119,
+              33.93207684221326
+            ],
+            [
+              -118.24628917771612,
+              33.933030843087074
+            ],
+            [
+              -118.24629117797194,
+              33.93318884261954
+            ],
+            [
+              -118.24630317836406,
+              33.93481484289774
+            ],
+            [
+              -118.24629517824012,
+              33.93553684311887
+            ],
+            [
+              -118.24632017781924,
+              33.935530842908165
+            ],
+            [
+              -118.24676117788569,
+              33.93540284281501
+            ],
+            [
+              -118.24706217818004,
+              33.935350843325814
+            ],
+            [
+              -118.24755717822582,
+              33.93529184314753
+            ],
+            [
+              -118.24837417890473,
+              33.93529984290956
+            ],
+            [
+              -118.25165417857507,
+              33.93528084264226
+            ],
+            [
+              -118.25367617969147,
+              33.93526984213716
+            ],
+            [
+              -118.25421417998392,
+              33.93526084254826
+            ],
+            [
+              -118.25421617948939,
+              33.93512384285431
+            ],
+            [
+              -118.25423917910418,
+              33.93312484244968
+            ],
+            [
+              -118.25426417964619,
+              33.93097084201488
+            ],
+            [
+              -118.2542801785117,
+              33.92946684177925
+            ],
+            [
+              -118.25333717838404,
+              33.92946784211226
+            ],
+            [
+              -118.25287317850388,
+              33.92946884216128
+            ],
+            [
+              -118.25222617893034,
+              33.92946984198972
+            ],
+            [
+              -118.2493961778457,
+              33.92947384214952
+            ],
+            [
+              -118.24928917829261,
+              33.92947384252273
+            ],
+            [
+              -118.24834417842295,
+              33.92947484220112
+            ],
+            [
+              -118.24741217834708,
+              33.92947584206038
+            ],
+            [
+              -118.2472801782333,
+              33.92947684214745
+            ],
+            [
+              -118.24626917717558,
+              33.92949084184619
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5898,
+        "CT20": "242600",
+        "LABEL": "2426.00",
+        "ShapeSTArea": 5123820.071952846,
+        "ShapeSTLength": 9153.07969439772,
+        "census_tract_id": 6037242600,
+        "neighborhood_label": "Los Angeles County tract 242600",
+        "median_household_income": 19955,
+        "income_category": "Low",
+        "percent_no_vehicle": 42.5,
+        "average_household_size": 3.33,
+        "percent_children": 44.1,
+        "percent_elderly": 2.2,
+        "poverty_rate": 52.2,
+        "public_transportation_proxy": 16.0,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 3.1,
+        "road_travel_time_to_shelter": 20,
+        "distance_to_hazard_zone": 0.7,
+        "transit_access": "Good",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037242600",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.44898622337162,
+              34.06853884595467
+            ],
+            [
+              -118.4490112232894,
+              34.06857984598023
+            ],
+            [
+              -118.44907122323723,
+              34.068663846310706
+            ],
+            [
+              -118.44915222335642,
+              34.068750846370264
+            ],
+            [
+              -118.44924722284888,
+              34.06882684604261
+            ],
+            [
+              -118.44934022242468,
+              34.068884845780325
+            ],
+            [
+              -118.44972022261572,
+              34.06905784649244
+            ],
+            [
+              -118.45065322352663,
+              34.06948284620977
+            ],
+            [
+              -118.45074422315594,
+              34.069528846566406
+            ],
+            [
+              -118.45085222292049,
+              34.069600845937714
+            ],
+            [
+              -118.45130022354125,
+              34.06999484582219
+            ],
+            [
+              -118.45139122357534,
+              34.07006584622141
+            ],
+            [
+              -118.45147422368498,
+              34.070116846101975
+            ],
+            [
+              -118.4516622237353,
+              34.070211845936655
+            ],
+            [
+              -118.45205222398573,
+              34.07040984577075
+            ],
+            [
+              -118.45237822337437,
+              34.070574846193935
+            ],
+            [
+              -118.45247422374372,
+              34.07061584643672
+            ],
+            [
+              -118.45257422399871,
+              34.0706448465808
+            ],
+            [
+              -118.45267822410037,
+              34.070661846616076
+            ],
+            [
+              -118.4527972232236,
+              34.0706668458694
+            ],
+            [
+              -118.45291522355848,
+              34.070655846464405
+            ],
+            [
+              -118.45303022408201,
+              34.07062984579695
+            ],
+            [
+              -118.45312722365793,
+              34.07059384598516
+            ],
+            [
+              -118.45324022412649,
+              34.07053484643975
+            ],
+            [
+              -118.45270822396357,
+              34.06977484603592
+            ],
+            [
+              -118.45263422393468,
+              34.069695845789
+            ],
+            [
+              -118.45254922383455,
+              34.06962384567745
+            ],
+            [
+              -118.452535223642,
+              34.068221845559
+            ],
+            [
+              -118.45252822318683,
+              34.06775784611797
+            ],
+            [
+              -118.45250822303811,
+              34.06761784562046
+            ],
+            [
+              -118.45247222359819,
+              34.06748084587132
+            ],
+            [
+              -118.45241822299305,
+              34.0673468462412
+            ],
+            [
+              -118.45203522363866,
+              34.0666228458067
+            ],
+            [
+              -118.45194322326248,
+              34.06642484562661
+            ],
+            [
+              -118.45185522361919,
+              34.06617384617979
+            ],
+            [
+              -118.45180622267875,
+              34.065998845516155
+            ],
+            [
+              -118.45176822272903,
+              34.065821845548925
+            ],
+            [
+              -118.45173422341094,
+              34.065583845236766
+            ],
+            [
+              -118.45172122258445,
+              34.06534384611164
+            ],
+            [
+              -118.4517282234083,
+              34.065103845206245
+            ],
+            [
+              -118.45175522352895,
+              34.06486584574045
+            ],
+            [
+              -118.4518022227797,
+              34.06462884519164
+            ],
+            [
+              -118.45189322304901,
+              34.06430884588758
+            ],
+            [
+              -118.451774223275,
+              34.064303845781524
+            ],
+            [
+              -118.4513422225015,
+              34.06426884588622
+            ],
+            [
+              -118.45124522251662,
+              34.064277845954145
+            ],
+            [
+              -118.45115122284837,
+              34.06429984571791
+            ],
+            [
+              -118.45106322299297,
+              34.06433584550688
+            ],
+            [
+              -118.45104322238129,
+              34.0643478457302
+            ],
+            [
+              -118.45097722233815,
+              34.064388845260815
+            ],
+            [
+              -118.45090422259518,
+              34.06445484526325
+            ],
+            [
+              -118.45084322271506,
+              34.06453784578767
+            ],
+            [
+              -118.45080722257076,
+              34.06461384539685
+            ],
+            [
+              -118.45078822333201,
+              34.06468484562905
+            ],
+            [
+              -118.4507472233078,
+              34.06531684532007
+            ],
+            [
+              -118.45072222290024,
+              34.065411846117655
+            ],
+            [
+              -118.4506832225506,
+              34.06549184528641
+            ],
+            [
+              -118.45062922317413,
+              34.0655668454866
+            ],
+            [
+              -118.45051822247446,
+              34.065677845704265
+            ],
+            [
+              -118.4503532226813,
+              34.06583284564463
+            ],
+            [
+              -118.45027722336994,
+              34.06590984618563
+            ],
+            [
+              -118.45017622338084,
+              34.06603084561487
+            ],
+            [
+              -118.45009122294783,
+              34.06616084578469
+            ],
+            [
+              -118.45003322275812,
+              34.066274845788705
+            ],
+            [
+              -118.44998722299874,
+              34.066391845546896
+            ],
+            [
+              -118.44973922273044,
+              34.06728684599968
+            ],
+            [
+              -118.44916622333733,
+              34.068400846487854
+            ],
+            [
+              -118.44912822280506,
+              34.068444845767914
+            ],
+            [
+              -118.44898622337162,
+              34.06853884595467
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5928,
+        "CT20": "265304",
+        "LABEL": "2653.04",
+        "ShapeSTArea": 1409868.2282492106,
+        "ShapeSTLength": 5886.18108758801,
+        "census_tract_id": 6037265304,
+        "neighborhood_label": "Los Angeles County tract 265304",
+        "median_household_income": 18366,
+        "income_category": "Low",
+        "percent_no_vehicle": 30.8,
+        "average_household_size": 2.32,
+        "percent_children": 1.4,
+        "percent_elderly": 1.0,
+        "poverty_rate": 73.7,
+        "public_transportation_proxy": 4.3,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 3.1,
+        "road_travel_time_to_shelter": 20,
+        "distance_to_hazard_zone": 3.1,
+        "transit_access": "Limited",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037265304",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.19373215681648,
+              33.78259882908742
+            ],
+            [
+              -118.19441915762897,
+              33.78259782878367
+            ],
+            [
+              -118.19472315757972,
+              33.78259482852819
+            ],
+            [
+              -118.19507515773596,
+              33.78259382860618
+            ],
+            [
+              -118.19506915695294,
+              33.78139982877689
+            ],
+            [
+              -118.19506415705861,
+              33.77897982835228
+            ],
+            [
+              -118.19506115721842,
+              33.7782998283028
+            ],
+            [
+              -118.19505815672511,
+              33.77775982782362
+            ],
+            [
+              -118.19506415724962,
+              33.77708682792224
+            ],
+            [
+              -118.19506815636751,
+              33.7765458281347
+            ],
+            [
+              -118.19506515672776,
+              33.77587982779897
+            ],
+            [
+              -118.19506215721061,
+              33.7753388277193
+            ],
+            [
+              -118.19441515628564,
+              33.77534082826161
+            ],
+            [
+              -118.19374615689397,
+              33.77534382805335
+            ],
+            [
+              -118.19372015649856,
+              33.77534382843149
+            ],
+            [
+              -118.19304015669215,
+              33.775346828479925
+            ],
+            [
+              -118.19239315675972,
+              33.77534882806824
+            ],
+            [
+              -118.19238915585542,
+              33.775883828130425
+            ],
+            [
+              -118.19238315650774,
+              33.77655582798495
+            ],
+            [
+              -118.19238315620836,
+              33.776569828384254
+            ],
+            [
+              -118.19238215649533,
+              33.77708982807205
+            ],
+            [
+              -118.19238115657123,
+              33.77776282882854
+            ],
+            [
+              -118.19238415631791,
+              33.77829682891823
+            ],
+            [
+              -118.19238715606025,
+              33.778976828097925
+            ],
+            [
+              -118.19239115624232,
+              33.78081582853486
+            ],
+            [
+              -118.19239215635379,
+              33.78140382871183
+            ],
+            [
+              -118.19239115662327,
+              33.78199682918505
+            ],
+            [
+              -118.19239015672744,
+              33.782596829007595
+            ],
+            [
+              -118.19303615708253,
+              33.78259782863804
+            ],
+            [
+              -118.19373215681648,
+              33.78259882908742
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7001,
+        "CT20": "575803",
+        "LABEL": "5758.03",
+        "ShapeSTArea": 2148618.9481585445,
+        "ShapeSTLength": 6905.198852165423,
+        "census_tract_id": 6037575803,
+        "neighborhood_label": "Los Angeles County tract 575803",
+        "median_household_income": 23827,
+        "income_category": "Low",
+        "percent_no_vehicle": 36.0,
+        "average_household_size": 1.9,
+        "percent_children": 13.7,
+        "percent_elderly": 35.1,
+        "poverty_rate": 44.4,
+        "public_transportation_proxy": 14.7,
+        "wildfire_risk_level": "Moderate",
+        "distance_to_nearest_shelter": 4.7,
+        "road_travel_time_to_shelter": 30,
+        "distance_to_hazard_zone": 1.3,
+        "transit_access": "Moderate",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037575803",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.22458816546983,
+              33.82438583189863
+            ],
+            [
+              -118.22461849955552,
+              33.824385832124364
+            ],
+            [
+              -118.22468725270996,
+              33.82438583189415
+            ],
+            [
+              -118.224688165444,
+              33.82438583199437
+            ],
+            [
+              -118.22477316588011,
+              33.824611832262704
+            ],
+            [
+              -118.22488716543448,
+              33.82491783175945
+            ],
+            [
+              -118.22490216598334,
+              33.824957831814714
+            ],
+            [
+              -118.22491771678706,
+              33.825000411871564
+            ],
+            [
+              -118.22494416548534,
+              33.825072831477506
+            ],
+            [
+              -118.22500216546457,
+              33.82522683223068
+            ],
+            [
+              -118.22501616592191,
+              33.82526483188188
+            ],
+            [
+              -118.22503914134072,
+              33.825325312914615
+            ],
+            [
+              -118.22508416541622,
+              33.825443831797784
+            ],
+            [
+              -118.22509816542473,
+              33.825480831663754
+            ],
+            [
+              -118.22515416555018,
+              33.82563083156992
+            ],
+            [
+              -118.22532202823437,
+              33.82607979196361
+            ],
+            [
+              -118.22604816569486,
+              33.82802183178888
+            ],
+            [
+              -118.22658775798182,
+              33.82939943249387
+            ],
+            [
+              -118.22662270331857,
+              33.82948864991189
+            ],
+            [
+              -118.22662316668692,
+              33.82948983182537
+            ],
+            [
+              -118.22663416665735,
+              33.8295358324763
+            ],
+            [
+              -118.22703916581692,
+              33.82847183230907
+            ],
+            [
+              -118.22712416607745,
+              33.828247831755874
+            ],
+            [
+              -118.2271641659678,
+              33.8281448323734
+            ],
+            [
+              -118.22775516579794,
+              33.826592831693766
+            ],
+            [
+              -118.22777716619285,
+              33.82653483182228
+            ],
+            [
+              -118.22778416605848,
+              33.826515831820174
+            ],
+            [
+              -118.22808916610646,
+              33.825714831955764
+            ],
+            [
+              -118.22812116636949,
+              33.82563183216738
+            ],
+            [
+              -118.22805316607759,
+              33.82562783201644
+            ],
+            [
+              -118.22808311572507,
+              33.82554665357173
+            ],
+            [
+              -118.22812916650395,
+              33.82542183213764
+            ],
+            [
+              -118.22845116595936,
+              33.82455283149418
+            ],
+            [
+              -118.22851516627485,
+              33.82437983149083
+            ],
+            [
+              -118.228142412781,
+              33.82422629474914
+            ],
+            [
+              -118.22807816659079,
+              33.82419983172413
+            ],
+            [
+              -118.22795516564578,
+              33.823599831154915
+            ],
+            [
+              -118.22784286129126,
+              33.82305286067851
+            ],
+            [
+              -118.22753816610874,
+              33.821568831374044
+            ],
+            [
+              -118.22638316550945,
+              33.81586583120157
+            ],
+            [
+              -118.22569616531129,
+              33.81247683047302
+            ],
+            [
+              -118.22548116435772,
+              33.811417830319286
+            ],
+            [
+              -118.22544816465779,
+              33.811254830354855
+            ],
+            [
+              -118.22539916453732,
+              33.811012830255116
+            ],
+            [
+              -118.2253531645909,
+              33.8109058303387
+            ],
+            [
+              -118.22429016400646,
+              33.80842482993991
+            ],
+            [
+              -118.22428308301588,
+              33.80840634142047
+            ],
+            [
+              -118.22420016461494,
+              33.8081898303098
+            ],
+            [
+              -118.22413916438288,
+              33.80801383011411
+            ],
+            [
+              -118.2241011645864,
+              33.807891829959345
+            ],
+            [
+              -118.22406616420241,
+              33.80775983006422
+            ],
+            [
+              -118.22401516369261,
+              33.807549829659415
+            ],
+            [
+              -118.22398016415997,
+              33.80736383014847
+            ],
+            [
+              -118.22397016403677,
+              33.8072898302057
+            ],
+            [
+              -118.22396416417334,
+              33.80724582960888
+            ],
+            [
+              -118.2239404255042,
+              33.80705988217083
+            ],
+            [
+              -118.2239401640825,
+              33.80705782991702
+            ],
+            [
+              -118.22393316370443,
+              33.80697883002569
+            ],
+            [
+              -118.22393181029551,
+              33.8069536461353
+            ],
+            [
+              -118.22392816381122,
+              33.80688582955878
+            ],
+            [
+              -118.22392416357302,
+              33.80680482994761
+            ],
+            [
+              -118.2239221642578,
+              33.80671282998839
+            ],
+            [
+              -118.22392177770425,
+              33.806707996806765
+            ],
+            [
+              -118.22392016446975,
+              33.806687830307375
+            ],
+            [
+              -118.2239211642573,
+              33.80660882996577
+            ],
+            [
+              -118.22392197777826,
+              33.80658224560668
+            ],
+            [
+              -118.2239220175158,
+              33.806580949160406
+            ],
+            [
+              -118.22392416412593,
+              33.80651083017359
+            ],
+            [
+              -118.22392616419725,
+              33.806474830033565
+            ],
+            [
+              -118.22393816419547,
+              33.806427829994874
+            ],
+            [
+              -118.22395116381938,
+              33.80623583002028
+            ],
+            [
+              -118.22395216420057,
+              33.806223829954206
+            ],
+            [
+              -118.2239881637098,
+              33.805950829742294
+            ],
+            [
+              -118.22404116406645,
+              33.80567982990213
+            ],
+            [
+              -118.2240944532307,
+              33.805475048166535
+            ],
+            [
+              -118.22411116402728,
+              33.805410829511715
+            ],
+            [
+              -118.2241981644613,
+              33.80514582989259
+            ],
+            [
+              -118.22422516359484,
+              33.80507682938728
+            ],
+            [
+              -118.22426716411051,
+              33.804972829540155
+            ],
+            [
+              -118.22429816445755,
+              33.804893829224646
+            ],
+            [
+              -118.22431216372307,
+              33.804877829281246
+            ],
+            [
+              -118.22432516392864,
+              33.804846830062395
+            ],
+            [
+              -118.22444416419154,
+              33.804590829940246
+            ],
+            [
+              -118.22458016445704,
+              33.804340830007725
+            ],
+            [
+              -118.22719316442333,
+              33.80010482925449
+            ],
+            [
+              -118.228207164312,
+              33.79739382834999
+            ],
+            [
+              -118.2283491643802,
+              33.796667828459356
+            ],
+            [
+              -118.22886816419081,
+              33.79526882876102
+            ],
+            [
+              -118.22946416345549,
+              33.793676828518855
+            ],
+            [
+              -118.22951616377998,
+              33.7935398279891
+            ],
+            [
+              -118.22963316442744,
+              33.79327182776184
+            ],
+            [
+              -118.22977316344763,
+              33.79299882794134
+            ],
+            [
+              -118.2298039612088,
+              33.79295384695091
+            ],
+            [
+              -118.22992516342113,
+              33.79277682776753
+            ],
+            [
+              -118.23002623514971,
+              33.79259776354074
+            ],
+            [
+              -118.2300521635845,
+              33.79255182807859
+            ],
+            [
+              -118.230129164034,
+              33.792622828028996
+            ],
+            [
+              -118.23027316411945,
+              33.792776827971785
+            ],
+            [
+              -118.23050516417678,
+              33.793023827576924
+            ],
+            [
+              -118.23324016470295,
+              33.795940828506446
+            ],
+            [
+              -118.23348916523315,
+              33.79620682854245
+            ],
+            [
+              -118.23356016537393,
+              33.79628182806172
+            ],
+            [
+              -118.23362016456514,
+              33.79634282860691
+            ],
+            [
+              -118.2336254930517,
+              33.79637413401208
+            ],
+            [
+              -118.23362816497165,
+              33.796389828619866
+            ],
+            [
+              -118.2336410203048,
+              33.79639072501688
+            ],
+            [
+              -118.23367116440815,
+              33.796392828336856
+            ],
+            [
+              -118.23369016476111,
+              33.79642082841298
+            ],
+            [
+              -118.23482416483101,
+              33.79762982845396
+            ],
+            [
+              -118.2354181652679,
+              33.79826382822757
+            ],
+            [
+              -118.2374581660177,
+              33.800446828162464
+            ],
+            [
+              -118.2374941663019,
+              33.80048582861477
+            ],
+            [
+              -118.2375221661667,
+              33.80048482859962
+            ],
+            [
+              -118.23758616601876,
+              33.80023282846635
+            ],
+            [
+              -118.23765416552023,
+              33.79992182828527
+            ],
+            [
+              -118.23946416545576,
+              33.79502782792059
+            ],
+            [
+              -118.24006716558841,
+              33.79339782719797
+            ],
+            [
+              -118.24034716519958,
+              33.79263982745808
+            ],
+            [
+              -118.24084416547362,
+              33.791295826816615
+            ],
+            [
+              -118.24116716608886,
+              33.79042282753248
+            ],
+            [
+              -118.24149116555412,
+              33.78954882658947
+            ],
+            [
+              -118.24181416603355,
+              33.78867482686499
+            ],
+            [
+              -118.24194616519183,
+              33.78831882708804
+            ],
+            [
+              -118.24261016506065,
+              33.78652282630737
+            ],
+            [
+              -118.24261716544257,
+              33.78650482619671
+            ],
+            [
+              -118.24292616575981,
+              33.785666826703135
+            ],
+            [
+              -118.24315216518144,
+              33.78505582637076
+            ],
+            [
+              -118.24317516608826,
+              33.78499582597809
+            ],
+            [
+              -118.2432761656395,
+              33.78473182605864
+            ],
+            [
+              -118.24349216559,
+              33.784194825856716
+            ],
+            [
+              -118.24366116582365,
+              33.78380382598907
+            ],
+            [
+              -118.2437961653597,
+              33.783507826314
+            ],
+            [
+              -118.2440411650777,
+              33.782993826148505
+            ],
+            [
+              -118.24421716587369,
+              33.782645825930885
+            ],
+            [
+              -118.24446716570019,
+              33.782177825985016
+            ],
+            [
+              -118.2446271659603,
+              33.78188782557815
+            ],
+            [
+              -118.24474716582024,
+              33.781680826134014
+            ],
+            [
+              -118.24509516509895,
+              33.78108082603495
+            ],
+            [
+              -118.24515516573689,
+              33.78095982602321
+            ],
+            [
+              -118.24517216513523,
+              33.78090882553508
+            ],
+            [
+              -118.245387165282,
+              33.780579825567784
+            ],
+            [
+              -118.24563116570104,
+              33.780216826075
+            ],
+            [
+              -118.24588316604816,
+              33.779856825304385
+            ],
+            [
+              -118.24622316613802,
+              33.77939482592338
+            ],
+            [
+              -118.24640916565339,
+              33.779149825614915
+            ],
+            [
+              -118.2466721657613,
+              33.77881482567281
+            ],
+            [
+              -118.24696316565374,
+              33.77845782501949
+            ],
+            [
+              -118.24725216600612,
+              33.77811882548612
+            ],
+            [
+              -118.24746916524889,
+              33.77787182525305
+            ],
+            [
+              -118.24787016575657,
+              33.777429825649655
+            ],
+            [
+              -118.24806616534134,
+              33.77721282560393
+            ],
+            [
+              -118.2484721654529,
+              33.77679782559536
+            ],
+            [
+              -118.24894316545443,
+              33.776337825383415
+            ],
+            [
+              -118.2494661662743,
+              33.77585582517383
+            ],
+            [
+              -118.24979216555433,
+              33.77556682529041
+            ],
+            [
+              -118.25030116567068,
+              33.77513682515656
+            ],
+            [
+              -118.25073416601327,
+              33.77478682504681
+            ],
+            [
+              -118.25121516585519,
+              33.77441382492596
+            ],
+            [
+              -118.25153216646865,
+              33.774178825020726
+            ],
+            [
+              -118.25196216651025,
+              33.773869824644976
+            ],
+            [
+              -118.25277216649584,
+              33.77330882476434
+            ],
+            [
+              -118.25339416660441,
+              33.772921824080115
+            ],
+            [
+              -118.25353616597268,
+              33.77283682482423
+            ],
+            [
+              -118.25381316608704,
+              33.772618824479764
+            ],
+            [
+              -118.25464716655051,
+              33.772063824047095
+            ],
+            [
+              -118.25514316656835,
+              33.77177082410129
+            ],
+            [
+              -118.25526116659145,
+              33.77171782400883
+            ],
+            [
+              -118.25572516609425,
+              33.77160782430382
+            ],
+            [
+              -118.25630816676826,
+              33.7715758239044
+            ],
+            [
+              -118.25759716669779,
+              33.770915823674486
+            ],
+            [
+              -118.25781616645523,
+              33.7707938243755
+            ],
+            [
+              -118.25781516680345,
+              33.77077482364413
+            ],
+            [
+              -118.25781716645223,
+              33.77072682401331
+            ],
+            [
+              -118.25818116725807,
+              33.77053682369309
+            ],
+            [
+              -118.25838116678939,
+              33.77043382372289
+            ],
+            [
+              -118.25870516685764,
+              33.77022182346017
+            ],
+            [
+              -118.25902516708071,
+              33.76997382383495
+            ],
+            [
+              -118.25903216657917,
+              33.76995782414639
+            ],
+            [
+              -118.25905416686523,
+              33.76995182414443
+            ],
+            [
+              -118.25971616754332,
+              33.76942982394364
+            ],
+            [
+              -118.25987616744771,
+              33.76930682402374
+            ],
+            [
+              -118.26030016730492,
+              33.76898282384788
+            ],
+            [
+              -118.26089316691639,
+              33.76850882382336
+            ],
+            [
+              -118.26075816668971,
+              33.76677782357053
+            ],
+            [
+              -118.26073216204291,
+              33.76644126715786
+            ],
+            [
+              -118.26073215864508,
+              33.76644121577933
+            ],
+            [
+              -118.26072198110015,
+              33.76630956734313
+            ],
+            [
+              -118.26072197662292,
+              33.766309515966945
+            ],
+            [
+              -118.26071686309649,
+              33.766243363654546
+            ],
+            [
+              -118.26071685861929,
+              33.76624331227837
+            ],
+            [
+              -118.26071218257582,
+              33.76618282228452
+            ],
+            [
+              -118.26071217809863,
+              33.76618277090832
+            ],
+            [
+              -118.26010416619991,
+              33.761082822675554
+            ],
+            [
+              -118.25895516672016,
+              33.76052282286974
+            ],
+            [
+              -118.25356908497417,
+              33.76105778818751
+            ],
+            [
+              -118.25356889182996,
+              33.76105780752612
+            ],
+            [
+              -118.2534881648916,
+              33.76106582339487
+            ],
+            [
+              -118.25242770584782,
+              33.761439173546535
+            ],
+            [
+              -118.25242767457947,
+              33.76143918443015
+            ],
+            [
+              -118.25207829591572,
+              33.761562185296995
+            ],
+            [
+              -118.25207826680321,
+              33.76156219527455
+            ],
+            [
+              -118.25161916476036,
+              33.76172382333042
+            ],
+            [
+              -118.25153116495898,
+              33.76174682350078
+            ],
+            [
+              -118.25147916488916,
+              33.76177382319517
+            ],
+            [
+              -118.24546216465484,
+              33.76389382365462
+            ],
+            [
+              -118.24545204142288,
+              33.76390130246166
+            ],
+            [
+              -118.24545191756368,
+              33.763901394667876
+            ],
+            [
+              -118.24506970971278,
+              33.7641838058974
+            ],
+            [
+              -118.24498914763858,
+              33.76424333229848
+            ],
+            [
+              -118.2445621639384,
+              33.764558823681334
+            ],
+            [
+              -118.24269216376936,
+              33.76594082469624
+            ],
+            [
+              -118.24215039866111,
+              33.76635020096715
+            ],
+            [
+              -118.2421244694054,
+              33.76636979418626
+            ],
+            [
+              -118.24180416335116,
+              33.76661182459521
+            ],
+            [
+              -118.2413541544037,
+              33.76695099922401
+            ],
+            [
+              -118.24135405962004,
+              33.766951070633056
+            ],
+            [
+              -118.24126416380756,
+              33.76701882419012
+            ],
+            [
+              -118.24084816362189,
+              33.76733482494987
+            ],
+            [
+              -118.24076245640788,
+              33.76739661440003
+            ],
+            [
+              -118.24076110667747,
+              33.76739758712099
+            ],
+            [
+              -118.24059016367927,
+              33.76752082502664
+            ],
+            [
+              -118.2405011659596,
+              33.76760935594703
+            ],
+            [
+              -118.24050053736688,
+              33.767609981947146
+            ],
+            [
+              -118.24039916343746,
+              33.76771082505683
+            ],
+            [
+              -118.2403641639787,
+              33.767736824991836
+            ],
+            [
+              -118.24036215196976,
+              33.76773834985154
+            ],
+            [
+              -118.24036190100608,
+              33.767738539669104
+            ],
+            [
+              -118.24023887317404,
+              33.76783177119489
+            ],
+            [
+              -118.24023616320241,
+              33.76783382482704
+            ],
+            [
+              -118.24016216363292,
+              33.767888824675815
+            ],
+            [
+              -118.24010070717755,
+              33.76793597077478
+            ],
+            [
+              -118.24009715500097,
+              33.76793869500173
+            ],
+            [
+              -118.2400891642233,
+              33.7679448249595
+            ],
+            [
+              -118.24003547439908,
+              33.76798524291427
+            ],
+            [
+              -118.24001168416466,
+              33.76800315190783
+            ],
+            [
+              -118.24000016334173,
+              33.76801182483709
+            ],
+            [
+              -118.23974616331786,
+              33.768202824809705
+            ],
+            [
+              -118.2359551632433,
+              33.7710608248076
+            ],
+            [
+              -118.23158016226843,
+              33.77432982562
+            ],
+            [
+              -118.23131616257805,
+              33.77452682575531
+            ],
+            [
+              -118.23102519354464,
+              33.77474438546759
+            ],
+            [
+              -118.23099338724758,
+              33.77476816696769
+            ],
+            [
+              -118.230880162547,
+              33.7748528256754
+            ],
+            [
+              -118.22830408084756,
+              33.7768004487588
+            ],
+            [
+              -118.22751858800045,
+              33.7773942840855
+            ],
+            [
+              -118.22685516187207,
+              33.77789582688715
+            ],
+            [
+              -118.22669516264322,
+              33.77801582687663
+            ],
+            [
+              -118.22201116205316,
+              33.781540827088406
+            ],
+            [
+              -118.2217401614957,
+              33.781744827555656
+            ],
+            [
+              -118.22089316118753,
+              33.78238182702104
+            ],
+            [
+              -118.22068119724484,
+              33.782541801615885
+            ],
+            [
+              -118.2206815166365,
+              33.78254214540637
+            ],
+            [
+              -118.22076117271298,
+              33.78262777512636
+            ],
+            [
+              -118.22076111766208,
+              33.78262777883335
+            ],
+            [
+              -118.22076116205436,
+              33.782627827433366
+            ],
+            [
+              -118.2215231615244,
+              33.7834418271507
+            ],
+            [
+              -118.22159216131098,
+              33.78351482778526
+            ],
+            [
+              -118.22194525189347,
+              33.78389171987449
+            ],
+            [
+              -118.22240816217081,
+              33.784385827741
+            ],
+            [
+              -118.2227636404436,
+              33.784765872860675
+            ],
+            [
+              -118.22345016271301,
+              33.78549982738254
+            ],
+            [
+              -118.22397216288061,
+              33.78605682789972
+            ],
+            [
+              -118.2251871628515,
+              33.78735382792896
+            ],
+            [
+              -118.22533916289568,
+              33.78752082744023
+            ],
+            [
+              -118.22544216328836,
+              33.78763082779727
+            ],
+            [
+              -118.22600416316001,
+              33.78822582812547
+            ],
+            [
+              -118.22630216288293,
+              33.78854382813616
+            ],
+            [
+              -118.22631216354445,
+              33.78855482757622
+            ],
+            [
+              -118.22739116296171,
+              33.78970682751098
+            ],
+            [
+              -118.2276251635248,
+              33.789956828079156
+            ],
+            [
+              -118.22762511849733,
+              33.78995694626199
+            ],
+            [
+              -118.22747516302039,
+              33.79034882804598
+            ],
+            [
+              -118.22737916325018,
+              33.79059882835015
+            ],
+            [
+              -118.22736054849217,
+              33.790648130971945
+            ],
+            [
+              -118.22730516293069,
+              33.79079482813051
+            ],
+            [
+              -118.22724573095194,
+              33.79095011977729
+            ],
+            [
+              -118.22724316316727,
+              33.79095682824514
+            ],
+            [
+              -118.22724054776602,
+              33.79095591995318
+            ],
+            [
+              -118.22697816286677,
+              33.790864827921276
+            ],
+            [
+              -118.22697810890543,
+              33.79086523640659
+            ],
+            [
+              -118.22691487645714,
+              33.79134510895949
+            ],
+            [
+              -118.22688816338722,
+              33.791547828460125
+            ],
+            [
+              -118.22680921555245,
+              33.79215243276594
+            ],
+            [
+              -118.22680916371236,
+              33.792152827724564
+            ],
+            [
+              -118.22659822761045,
+              33.792733254125
+            ],
+            [
+              -118.22587116383295,
+              33.79473382814534
+            ],
+            [
+              -118.22576752931629,
+              33.79502012015102
+            ],
+            [
+              -118.2254501636875,
+              33.79589682882805
+            ],
+            [
+              -118.22503016309558,
+              33.79706082879723
+            ],
+            [
+              -118.22434216326259,
+              33.798950828859084
+            ],
+            [
+              -118.22370210318692,
+              33.800705654051626
+            ],
+            [
+              -118.22365316331333,
+              33.80083982926327
+            ],
+            [
+              -118.22328987649148,
+              33.80184029536771
+            ],
+            [
+              -118.22255216384957,
+              33.80387182984153
+            ],
+            [
+              -118.22246248007895,
+              33.80411759494818
+            ],
+            [
+              -118.22244816313753,
+              33.80415682988921
+            ],
+            [
+              -118.22244816351271,
+              33.80415697142568
+            ],
+            [
+              -118.22244816308694,
+              33.804166180355246
+            ],
+            [
+              -118.22244816379609,
+              33.80445283001814
+            ],
+            [
+              -118.22244816392363,
+              33.8045828296277
+            ],
+            [
+              -118.22244916385893,
+              33.80635283016372
+            ],
+            [
+              -118.22245107413713,
+              33.80815619882583
+            ],
+            [
+              -118.22245116350457,
+              33.80824082979536
+            ],
+            [
+              -118.22245416461598,
+              33.81188383044422
+            ],
+            [
+              -118.22245416397487,
+              33.81245674537775
+            ],
+            [
+              -118.22245416420195,
+              33.812456831020924
+            ],
+            [
+              -118.22275516428503,
+              33.81271783099424
+            ],
+            [
+              -118.22275868856555,
+              33.81271994573124
+            ],
+            [
+              -118.22278016417734,
+              33.81273283097156
+            ],
+            [
+              -118.22277325146096,
+              33.81278220781744
+            ],
+            [
+              -118.2227731645546,
+              33.812782830922586
+            ],
+            [
+              -118.22277251020462,
+              33.812808508979764
+            ],
+            [
+              -118.22276916414955,
+              33.81293983021781
+            ],
+            [
+              -118.22335116425175,
+              33.815815830709106
+            ],
+            [
+              -118.22451616489765,
+              33.82157283157074
+            ],
+            [
+              -118.22458216575524,
+              33.82157283111799
+            ],
+            [
+              -118.22458192144617,
+              33.82157759786936
+            ],
+            [
+              -118.22458016499569,
+              33.82161183156848
+            ],
+            [
+              -118.22458016560819,
+              33.8216548319034
+            ],
+            [
+              -118.22458016532843,
+              33.82173583188761
+            ],
+            [
+              -118.22457916508795,
+              33.821944831366
+            ],
+            [
+              -118.22458311886471,
+              33.82213708863979
+            ],
+            [
+              -118.22459516526146,
+              33.82272283199358
+            ],
+            [
+              -118.22460216570644,
+              33.82348783163332
+            ],
+            [
+              -118.22461516545067,
+              33.82420683219109
+            ],
+            [
+              -118.22461616585433,
+              33.82429283192548
+            ],
+            [
+              -118.2245881660221,
+              33.82429283185403
+            ],
+            [
+              -118.22458816546983,
+              33.82438583189863
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7475,
+        "CT20": "980014",
+        "LABEL": "9800.14",
+        "ShapeSTArea": 80244641.35551839,
+        "ShapeSTLength": 68033.79184150916,
+        "census_tract_id": 6037980014,
+        "neighborhood_label": "Los Angeles County tract 980014",
+        "median_household_income": 0,
+        "income_category": "Low",
+        "percent_no_vehicle": 0.0,
+        "average_household_size": 4.0,
+        "percent_children": 0.0,
+        "percent_elderly": 55.0,
+        "poverty_rate": 100.0,
+        "public_transportation_proxy": 0.0,
+        "wildfire_risk_level": "High",
+        "distance_to_nearest_shelter": 3.1,
+        "road_travel_time_to_shelter": 20,
+        "distance_to_hazard_zone": 2.5,
+        "transit_access": "None",
+        "neighborhood_vulnerability_level": "High",
+        "profile_data_source": "Official ACS 2023 5-year tract estimates via U.S. Census API for Los Angeles County; spatial risk/distance fields are approximate study values.",
+        "acs_reference_url": "https://www.census.gov/programs-surveys/acs",
+        "profile_limitations": "ACS variables are official tract estimates; wildfire risk, shelter distance, travel time, and hazard distance are approximate placeholders pending GIS integration.",
+        "GEOID": "06037980014",
+        "geometry_source": "County of Los Angeles Open Data: 2020 Census Tracts",
+        "geometry_source_path": "/Users/hanna/Downloads/2020_Census_Tracts.geojson"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+"GEOID","census_tract_id","neighborhood_label","violation_spatial_inconsistency_rate","n_responses","nearby_shelter_claim_rate","nearest_transit_stop_distance_km","nearest_candidate_shelter_distance_km","distance_to_fire_km","no_vehicle_persona_share","n_personas","no_vehicle_personas"
+6037206202,6037206202,"Los Angeles County tract 206202",40,20,15,0.4,2.73,11.16,40,10,4
+6037206301,6037206301,"Los Angeles County tract 206301",60,20,35,0.64,2,11.19,70,10,7
+6037206302,6037206302,"Los Angeles County tract 206302",75,20,35,0.83,2.16,11.36,80,10,8
+6037206303,6037206303,"Los Angeles County tract 206303",80,20,40,1.14,2.53,11.77,80,10,8
+6037207304,6037207304,"Los Angeles County tract 207304",70,20,40,0.27,1.73,10.78,70,10,7
+6037207307,6037207307,"Los Angeles County tract 207307",50,20,5,0.34,1.91,10.89,50,10,5
+6037207502,6037207502,"Los Angeles County tract 207502",50,20,5,0.49,1.98,10.07,50,10,5
+6037208902,6037208902,"Los Angeles County tract 208902",50,20,30,0.41,1.78,9.14,50,10,5
+6037208904,6037208904,"Los Angeles County tract 208904",60,20,0,0.68,1.72,8.85,70,10,7
+6037209103,6037209103,"Los Angeles County tract 209103",10,20,5,1.07,1.78,9.26,10,10,1
+6037209105,6037209105,"Los Angeles County tract 209105",50,20,35,0.84,1.82,9.11,50,10,5
+6037209401,6037209401,"Los Angeles County tract 209401",50,20,10,0.44,2.12,8.96,50,10,5
+6037209402,6037209402,"Los Angeles County tract 209402",40,20,25,0.26,1.73,9.24,40,10,4
+6037209403,6037209403,"Los Angeles County tract 209403",30,20,40,0.51,1.45,9.47,30,10,3
+6037222700,6037222700,"Los Angeles County tract 222700",45,20,35,0.3,2.68,12.89,50,10,5
+6037224702,6037224702,"Los Angeles County tract 224702",20,20,5,0.93,2.01,12.5,20,10,2
+6037242600,6037242600,"Los Angeles County tract 242600",50,20,15,10.09,12.17,23.07,50,10,5
+6037265304,6037265304,"Los Angeles County tract 265304",10,20,35,13.71,3.37,16.36,10,10,1
+6037575803,6037575803,"Los Angeles County tract 575803",30,20,5,27.92,29.92,40.83,30,10,3
+6037980014,6037980014,"Los Angeles County tract 980014",0,20,0,26.56,28.84,39.7,0,10,0

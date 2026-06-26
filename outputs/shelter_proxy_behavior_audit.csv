@@ -1,0 +1,25 @@
+"condition","shelter_distance_group","behavior_category","rate","n","count"
+"Baseline","near","Public shelter selected",4.3,70,3
+"Spatially grounded","near","Public shelter selected",100,70,70
+"Baseline","medium","Public shelter selected",3.3,60,2
+"Spatially grounded","medium","Public shelter selected",100,60,60
+"Baseline","far","Public shelter selected",2.9,70,2
+"Spatially grounded","far","Public shelter selected",98.6,70,69
+"Baseline","near","Nearby shelter claim",0,70,0
+"Spatially grounded","near","Nearby shelter claim",50,70,35
+"Baseline","medium","Nearby shelter claim",0,60,0
+"Spatially grounded","medium","Nearby shelter claim",31.7,60,19
+"Baseline","far","Nearby shelter claim",0,70,0
+"Spatially grounded","far","Nearby shelter claim",41.4,70,29
+"Baseline","near","Walking to shelter",0,70,0
+"Spatially grounded","near","Walking to shelter",0,70,0
+"Baseline","medium","Walking to shelter",0,60,0
+"Spatially grounded","medium","Walking to shelter",3.3,60,2
+"Baseline","far","Walking to shelter",0,70,0
+"Spatially grounded","far","Walking to shelter",0,70,0
+"Baseline","near","No shelter claim",100,70,70
+"Spatially grounded","near","No shelter claim",50,70,35
+"Baseline","medium","No shelter claim",100,60,60
+"Spatially grounded","medium","No shelter claim",68.3,60,41
+"Baseline","far","No shelter claim",100,70,70
+"Spatially grounded","far","No shelter claim",58.6,70,41

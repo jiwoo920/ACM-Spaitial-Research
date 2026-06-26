@@ -1,0 +1,13 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_type,gtfs_status_note
+MTP-01,Union Station,34.0562,-118.2365,major rail/bus hub proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-02,7th Street / Metro Center,34.0486,-118.2587,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-03,Pico Station,34.0407,-118.2669,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-04,Pershing Square Station,34.0487,-118.251,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-05,Little Tokyo / Arts District Station,34.0501,-118.2387,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-06,Chinatown Station,34.0638,-118.2359,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-07,Westlake / MacArthur Park Station,34.057,-118.2768,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-08,Wilshire / Vermont Station,34.0627,-118.2901,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-09,Vermont / Sunset Station,34.0982,-118.2917,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-10,Hollywood / Western Station,34.1017,-118.3081,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-11,Expo Park / USC Station,34.0182,-118.2857,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.
+MTP-12,Highland Park Station,34.1112,-118.1928,major rail station proxy,LA Metro GTFS static stops.txt was requested but not available in this local run; using major transit-stop proxy points.

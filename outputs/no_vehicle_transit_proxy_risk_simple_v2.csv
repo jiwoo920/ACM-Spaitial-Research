@@ -1,0 +1,9 @@
+"condition_label","stop_distance_group","rate","n","label"
+"Baseline","Near/Moderate Proximity",93.8,81,"93.8%
+n=81"
+"Spatially grounded","Near/Moderate Proximity",98.8,81,"98.8%
+n=81"
+"Baseline","Transit Desert (Far/No Stop)",100,9,"100.0%
+n=9"
+"Spatially grounded","Transit Desert (Far/No Stop)",100,9,"100.0%
+n=9"
